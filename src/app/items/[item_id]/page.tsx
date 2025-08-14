@@ -11,7 +11,14 @@ type RuleValue = boolean | string | null | undefined;
 type RuleSummary = { carry_on: RuleValue; checked: RuleValue };
 type Item = {
 	item_id: number;
-	name_ko: string;
+	item_name: {
+		KR: string;
+		EN: string;
+	};
+	description: {
+		KR: string;
+		EN: string;
+	};
 	rules_summary?: Record<string, RuleSummary>;
 	rules_sources?: Record<string, string[]>;
 };
@@ -34,7 +41,8 @@ export default async function ItemPage({ params, searchParams }: Props) {
 		<div className="flex flex-col gap-6">
 			<div className="flex items-center justify-between">
 				<div>
-					<h1 className="text-2xl font-semibold">{item.name_ko}</h1>
+					<h1 className="text-2xl font-semibold">{item.item_name.KR}</h1>
+					<p className="text-sm text-foreground/60">{item.description.KR}</p>
 					<div className="text-sm text-foreground/60">item_id: {item_id}</div>
 				</div>
 				<Link

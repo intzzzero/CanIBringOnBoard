@@ -4,7 +4,14 @@ import Link from "next/link";
 
 type Item = {
   item_id: number;
-  name_ko: string;
+  item_name: {
+    KR: string;
+    EN: string;
+  };
+  description: {
+    KR: string;
+    EN: string;
+  };
 };
 
 type SearchResultsProps = {
@@ -29,7 +36,7 @@ export default function SearchResults({ items, loading }: SearchResultsProps) {
               className="block px-4 py-3 hover:bg-black/5 transition"
             >
               <div className="flex items-center justify-between">
-                <div className="font-medium">{item.name_ko}</div>
+                <div className="font-medium">{item.item_name.KR}</div>
               </div>
             </Link>
           ))

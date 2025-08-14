@@ -3,7 +3,7 @@ import Fuse from 'fuse.js';
 import itemsKr from '../../../../data/items.kr.json';
 
 const fuse = new Fuse(itemsKr.items, {
-  keys: ['name_ko'],
+  keys: ['item_name.KR', 'item_name.EN'],
   threshold: 0.3,
 });
 
@@ -16,7 +16,7 @@ export async function GET(request: NextRequest) {
   }
 
   const results = fuse.search(query);
-  const suggestions = results.map((result) => result.item.name_ko);
+  const suggestions = results.map((result) => result.item.item_name.KR);
 
-  return NextResponse.json(suggestions.slice(0, 5));
+  return NextResponse.json(Array.from(new Set(suggestions)).slice(0, 5));
 }

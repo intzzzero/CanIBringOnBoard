@@ -5,7 +5,14 @@ import debounce from 'lodash.debounce';
 
 type Item = {
   item_id: number;
-  name_ko: string;
+  item_name: {
+    KR: string;
+    EN: string;
+  };
+  description: {
+    KR: string;
+    EN: string;
+  };
 };
 
 export function useSearch() {

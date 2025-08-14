@@ -3,11 +3,16 @@
 	"items": [
 		{
 			"item_id": 1,
-			"name_ko": "수은 온도계",
-			"name_en": "Mercury thermometer",
+			"item_name": {
+				"KR": "수은 온도계",
+				"EN": "Mercury thermometer"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "medical_equipment",
-			"description": "의학용 또는 진료용 수은 온도계",
+			"description": {
+				"KR": "의학용 또는 진료용 수은 온도계",
+				"EN": "Mercury thermometer for medical or medical use"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -23,11 +28,16 @@
 		},
 		{
 			"item_id": 2,
-			"name_ko": "알콜 음료",
-			"name_en": null,
+			"item_name": {
+				"KR": "알콜 음료",
+				"EN": "Alcoholic beverages"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": "24%이상 70% 미만의 알콜이 들어있는 병 5ℓ이하의 알콜 음료",
+			"description": {
+				"KR": "24%이상 70% 미만의 알콜이 들어있는 병 5ℓ이하의 알콜 음료",
+				"EN": "Alcoholic beverages containing 24% or more and less than 70% of alcohol in a container of 5ℓ or less"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -43,11 +53,16 @@
 		},
 		{
 			"item_id": 3,
-			"name_ko": "과산화수소",
-			"name_en": null,
+			"item_name": {
+				"KR": "과산화수소",
+				"EN": "Hydrogen peroxide"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": "3% 과산화수소",
+			"description": {
+				"KR": "3% 과산화수소",
+				"EN": "3% hydrogen peroxide"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -63,11 +78,16 @@
 		},
 		{
 			"item_id": 4,
-			"name_ko": "칼날",
-			"name_en": null,
+			"item_name": {
+				"KR": "칼날",
+				"EN": "Knife blade"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": "5.5cm 미만의 칼날이 있는 가위",
+			"description": {
+				"KR": "5.5cm 미만의 칼날이 있는 가위",
+				"EN": "Scissors with a blade less than 5.5cm"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -86,11 +106,16 @@
 		},
 		{
 			"item_id": 5,
-			"name_ko": "5.5cm 미만의 칼날이 있는 가위",
-			"name_en": null,
+			"item_name": {
+				"KR": "가위(5.5cm 미만)",
+				"EN": "Scissors (less than 5.5cm)"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "5.5cm 미만의 칼날이 있는 가위",
+				"EN": "Scissors with a blade less than 5.5cm"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -109,11 +134,16 @@
 		},
 		{
 			"item_id": 6,
-			"name_ko": "5.5cm 이상의 날을 가진 뾰족한 가위",
-			"name_en": null,
+			"item_name": {
+				"KR": "가위(5.5cm 이상)",
+				"EN": "Scissors (5.5cm or more)"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "5.5cm 이상의 날을 가진 뾰족한 가위",
+				"EN": "Sharp scissors with a blade of 5.5cm or more"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -129,11 +159,16 @@
 		},
 		{
 			"item_id": 7,
-			"name_ko": "50㎖를 초과하는 접착제",
-			"name_en": null,
+			"item_name": {
+				"KR": "접착제(50㎖ 초과)",
+				"EN": "Adhesive (exceeding 50㎖)"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "50㎖를 초과하는 접착제",
+				"EN": "Adhesive exceeding 50㎖"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -149,11 +184,16 @@
 		},
 		{
 			"item_id": 8,
-			"name_ko": "70도 이상의 알콜 음료",
-			"name_en": null,
+			"item_name": {
+				"KR": "알콜 음료(70도 이상)",
+				"EN": "Alcoholic beverages (70°C or higher)"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "70도 이상의 알콜 음료",
+				"EN": "Alcoholic beverages at 70°C or higher"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -169,11 +209,16 @@
 		},
 		{
 			"item_id": 9,
-			"name_ko": "가스 및 가스용기(예, 부탄, 프로판, 아세틸렌, 산소)",
-			"name_en": null,
+			"item_name": {
+				"KR": "가스 및 가스용기",
+				"EN": "Gas and gas containers"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "가스 및 가스용기(예, 부탄, 프로판, 아세틸렌, 산소)",
+				"EN": "Gas and gas containers (e.g., propane, propylene, acetylene, oxygen)"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -189,11 +234,16 @@
 		},
 		{
 			"item_id": 10,
-			"name_ko": "개인위생용품(향수· 화장수· 헤어스프레이, 면도크림, 헤어무스, 구두약, 소염제, 방향제, 신체냄새 제거제, 산소스프레이, 몸에 뿌리는 해충기피제 등) 각 1개",
-			"name_en": null,
+			"item_name": {
+				"KR": "개인위생용품",
+				"EN": "Personal hygiene products"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": null,
+			"description": {
+				"KR": "개인위생용품(향수· 화장수· 헤어스프레이, 면도크림, 헤어무스, 구두약, 소염제, 방향제, 신체냄새 제거제, 산소스프레이, 몸에 뿌리는 해충기피제 등) 각 1개",
+				"EN": "Personal hygiene products (e.g., perfume, facial water, hair spray, shaving cream, hair mousse, shoe polish, antiseptic, deodorant, body odor remover, oxygen spray, bug repellent, etc.) each 1"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -209,11 +259,16 @@
 		},
 		{
 			"item_id": 11,
-			"name_ko": "검 및 칼이 든 지팡이",
-			"name_en": null,
+			"item_name": {
+				"KR": "검 및 칼이 든 지팡이",
+				"EN": "Sword and knife-bearing staff"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "검 및 칼이 든 지팡이",
+				"EN": "Sword and knife-bearing staff"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -229,11 +284,16 @@
 		},
 		{
 			"item_id": 12,
-			"name_ko": "격발식 활",
-			"name_en": null,
+			"item_name": {
+				"KR": "격발식 활",
+				"EN": "Crossbow"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "격발식 활",
+				"EN": "Crossbow"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -249,11 +309,16 @@
 		},
 		{
 			"item_id": 13,
-			"name_ko": "격투용 도구(예: Knuckle Dusters, 곤봉, 도리캐, Num chucks, Kubatons, Kubasaunts)",
-			"name_en": null,
+			"item_name": {
+				"KR": "격투용 도구",
+				"EN": "Fighting tools"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "격투용 도구(예: Knuckle Dusters, 곤봉, 도리캐, Num chucks, Kubatons, Kubasaunts)",
+				"EN": "Fighting tools (e.g., knuckle duster, baton, truncheon, num chucks, kubatons, kubasaunts)"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -269,11 +334,16 @@
 		},
 		{
 			"item_id": 14,
-			"name_ko": "곤봉",
-			"name_en": "Goshes",
+			"item_name": {
+				"KR": "곤봉",
+				"EN": "Goshes"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "곤봉",
+				"EN": "Goshes"
+			},
 			"tags": ["blunt_objects", "무기류", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -289,11 +359,16 @@
 		},
 		{
 			"item_id": 15,
-			"name_ko": "골프채",
-			"name_en": "Golf clubs",
+			"item_name": {
+				"KR": "골프채",
+				"EN": "Golf clubs"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "sports_equipment",
-			"description": null,
+			"description": {
+				"KR": "골프채",
+				"EN": "Golf clubs"
+			},
 			"tags": ["blunt_objects", "스포츠용품류", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -309,11 +384,16 @@
 		},
 		{
 			"item_id": 16,
-			"name_ko": "공기가 1/3이상 주입된 축구공 등 스포츠용 공",
-			"name_en": null,
+			"item_name": {
+				"KR": "공",
+				"EN": "Sports ball"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "공기가 1/3이상 주입된 축구공 등 스포츠용 공",
+				"EN": "Sports ball with more than 1/3 of air injected"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -329,11 +409,16 @@
 		},
 		{
 			"item_id": 17,
-			"name_ko": "공기가 주입된 풍선",
-			"name_en": null,
+			"item_name": {
+				"KR": "풍선",
+				"EN": "Balloon"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "공기가 주입된 풍선",
+				"EN": "Balloon with air injected"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -349,11 +434,16 @@
 		},
 		{
 			"item_id": 18,
-			"name_ko": "구명조끼에 유입하는 비독성 또는 비 위험가스인 실린더 1쌍",
-			"name_en": null,
+			"item_name": {
+				"KR": "구명조끼에 유입하는 비독성 또는 비 위험가스인 실린더 1쌍",
+				"EN": "Cylinder of non-toxic or non-hazardous gas for a life jacket"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "구명조끼에 유입하는 비독성 또는 비 위험가스인 실린더 1쌍",
+				"EN": "Cylinder of non-toxic or non-hazardous gas for a life jacket"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -369,11 +459,16 @@
 		},
 		{
 			"item_id": 19,
-			"name_ko": "국궁",
-			"name_en": "A bow of reverence",
+			"item_name": {
+				"KR": "국궁",
+				"EN": "A bow of reverence"
+			},
 			"primary_category": "weapons",
 			"sub_category": "sports_equipment",
-			"description": null,
+			"description": {
+				"KR": "국궁",
+				"EN": "A bow of reverence"
+			},
 			"tags": ["weapons", "스포츠용품류", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -389,11 +484,16 @@
 		},
 		{
 			"item_id": 20,
-			"name_ko": "금속 칼붙이",
-			"name_en": null,
+			"item_name": {
+				"KR": "금속 칼붙이",
+				"EN": "Metal opener"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "금속 칼붙이",
+				"EN": "Metal opener"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -412,11 +512,16 @@
 		},
 		{
 			"item_id": 21,
-			"name_ko": "금속제 빵 칼·스테이크용 칼",
-			"name_en": null,
+			"item_name": {
+				"KR": "금속제 빵 칼·스테이크용 칼",
+				"EN": "Metal knife for bread and steak"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "금속제 빵 칼·스테이크용 칼",
+				"EN": "Metal knife for bread and steak"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -435,11 +540,16 @@
 		},
 		{
 			"item_id": 22,
-			"name_ko": "기동장치 총",
-			"name_en": null,
+			"item_name": {
+				"KR": "기동장치 총",
+				"EN": "Movable device gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "기동장치 총",
+				"EN": "Movable device gun"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -455,11 +565,16 @@
 		},
 		{
 			"item_id": 23,
-			"name_ko": "끝이 둥근 가위",
-			"name_en": null,
+			"item_name": {
+				"KR": "끝이 둥근 가위",
+				"EN": "Rounded scissors"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "끝이 둥근 가위",
+				"EN": "Rounded scissors"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -475,11 +590,16 @@
 		},
 		{
 			"item_id": 24,
-			"name_ko": "끝이 둥근 금속제 병 음료 개봉기",
-			"name_en": null,
+			"item_name": {
+				"KR": "끝이 둥근 금속제 병 음료 개봉기",
+				"EN": "Rounded metal bottle opener"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "끝이 둥근 금속제 병 음료 개봉기",
+				"EN": "Rounded metal bottle opener"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -495,11 +615,16 @@
 		},
 		{
 			"item_id": 25,
-			"name_ko": "끝이 뾰족한 우산",
-			"name_en": null,
+			"item_name": {
+				"KR": "끝이 뾰족한 우산",
+				"EN": "Sharp umbrella"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "끝이 뾰족한 우산",
+				"EN": "Sharp umbrella"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -515,11 +640,16 @@
 		},
 		{
 			"item_id": 26,
-			"name_ko": "낚시받침대",
-			"name_en": null,
+			"item_name": {
+				"KR": "낚시받침대",
+				"EN": "Fishing support"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "낚시받침대",
+				"EN": "Fishing support"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -535,12 +665,22 @@
 		},
 		{
 			"item_id": 27,
-			"name_ko": "날을 갖고 있는 접이식 칼류",
-			"name_en": null,
+			"item_name": {
+				"KR": "날을 갖고 있는 접이식 칼류",
+				"EN": "Foldable knives with blades"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
-			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
+			"description": {
+				"KR": "날을 갖고 있는 접이식 칼류",
+				"EN": "Foldable knives with blades"
+			},
+			"tags": [
+				"sharp_objects",
+				"끝이 뾰족한 무기및 날카로운 물체",
+				"무기류",
+				"맥가이버칼"
+			],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -555,15 +695,22 @@
 		},
 		{
 			"item_id": 28,
-			"name_ko": "네일니퍼",
-			"name_en": "Nail nipper",
+			"item_name": {
+				"KR": "네일니퍼",
+				"EN": "Nail nipper"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "네일니퍼",
+				"EN": "Nail nipper"
+			},
 			"tags": [
 				"security_high_alert",
 				"무기류",
-				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
+				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상",
+				"네일니퍼",
+				"네일케어용품"
 			],
 			"rules_summary": {
 				"KR": {
@@ -579,12 +726,17 @@
 		},
 		{
 			"item_id": 29,
-			"name_ko": "노약자 및 장애인 등의 보행용 지팡이나 목발을 포함한 보조기구",
-			"name_en": null,
+			"item_name": {
+				"KR": "노약자 및 장애인 등의 보행용 지팡이나 목발을 포함한 보조기구",
+				"EN": "Walking stick or cane for the elderly and disabled"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
-			"tags": ["blunt_objects", "둔기"],
+			"description": {
+				"KR": "노약자 및 장애인 등의 보행용 지팡이나 목발을 포함한 보조기구",
+				"EN": "Walking stick or cane for the elderly and disabled"
+			},
+			"tags": ["blunt_objects", "둔기", "보조기구", "목발", "지팡이"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": true,
@@ -599,11 +751,16 @@
 		},
 		{
 			"item_id": 30,
-			"name_ko": "뇌관 및 도화선",
-			"name_en": null,
+			"item_name": {
+				"KR": "뇌관 및 도화선",
+				"EN": "Gunpowder and fuse"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "뇌관 및 도화선",
+				"EN": "Gunpowder and fuse"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -619,11 +776,16 @@
 		},
 		{
 			"item_id": 31,
-			"name_ko": "눈물가스",
-			"name_en": null,
+			"item_name": {
+				"KR": "눈물가스",
+				"EN": "Tear gas"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "눈물가스",
+				"EN": "Tear gas"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -639,15 +801,21 @@
 		},
 		{
 			"item_id": 32,
-			"name_ko": "눈썹정리용 칼",
-			"name_en": "Eyebrow knives",
+			"item_name": {
+				"KR": "눈썹정리용 칼",
+				"EN": "Eyebrow knives"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "눈썹정리용 칼",
+				"EN": "Eyebrow knives"
+			},
 			"tags": [
 				"security_high_alert",
 				"무기류",
-				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
+				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상",
+				"눈썹칼"
 			],
 			"rules_summary": {
 				"KR": {
@@ -663,11 +831,16 @@
 		},
 		{
 			"item_id": 33,
-			"name_ko": "다용도 칼",
-			"name_en": null,
+			"item_name": {
+				"KR": "다용도 칼",
+				"EN": "Multipurpose knife"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "다용도 칼",
+				"EN": "Multipurpose knife"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -683,11 +856,16 @@
 		},
 		{
 			"item_id": 34,
-			"name_ko": "당구/스누커용 큐대",
-			"name_en": null,
+			"item_name": {
+				"KR": "당구/스누커용 큐대",
+				"EN": "Pool/snooker cue"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "당구/스누커용 큐대",
+				"EN": "Pool/snooker cue"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -703,11 +881,16 @@
 		},
 		{
 			"item_id": 35,
-			"name_ko": "대바늘",
-			"name_en": "Bamboo knitting neddle",
+			"item_name": {
+				"KR": "대바늘",
+				"EN": "Bamboo knitting neddle"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "household_items",
-			"description": null,
+			"description": {
+				"KR": "대바늘",
+				"EN": "Bamboo knitting neddle"
+			},
 			"tags": [
 				"security_high_alert",
 				"생활용품류",
@@ -727,11 +910,16 @@
 		},
 		{
 			"item_id": 36,
-			"name_ko": "도끼 및 자귀",
-			"name_en": null,
+			"item_name": {
+				"KR": "도끼 및 자귀",
+				"EN": "Axe and pickaxe"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "도끼 및 자귀",
+				"EN": "Axe and pickaxe"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -747,11 +935,16 @@
 		},
 		{
 			"item_id": 37,
-			"name_ko": "독극물류",
-			"name_en": null,
+			"item_name": {
+				"KR": "독극물류",
+				"EN": "Poisonous substances"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "독극물류",
+				"EN": "Poisonous substances"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -767,11 +960,16 @@
 		},
 		{
 			"item_id": 38,
-			"name_ko": "동물도축장비",
-			"name_en": null,
+			"item_name": {
+				"KR": "동물도축장비",
+				"EN": "Animal slaughter equipment"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "동물도축장비",
+				"EN": "Animal slaughter equipment"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -787,11 +985,16 @@
 		},
 		{
 			"item_id": 39,
-			"name_ko": "드라이아이스 1인당 2.5㎏ 이하",
-			"name_en": null,
+			"item_name": {
+				"KR": "드라이아이스 1인당 2.5㎏ 이하",
+				"EN": "Dry ice per person less than 2.5kg"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "드라이아이스 1인당 2.5㎏ 이하",
+				"EN": "Dry ice per person less than 2.5kg"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -807,11 +1010,16 @@
 		},
 		{
 			"item_id": 40,
-			"name_ko": "드릴 및 길이가 5.5cm 이상의 드릴날",
-			"name_en": null,
+			"item_name": {
+				"KR": "드릴날(길이가 5.5cm 이상)",
+				"EN": "Drill and drill bit longer than 5.5cm"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "드릴 및 길이가 5.5cm 이상의 드릴날",
+				"EN": "Drill and drill bit longer than 5.5cm"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -827,11 +1035,16 @@
 		},
 		{
 			"item_id": 41,
-			"name_ko": "등산용 폴",
-			"name_en": null,
+			"item_name": {
+				"KR": "등산용 폴",
+				"EN": "Hiking pole"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "등산용 폴",
+				"EN": "Hiking pole"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -847,11 +1060,16 @@
 		},
 		{
 			"item_id": 42,
-			"name_ko": "등산용아이젠",
-			"name_en": null,
+			"item_name": {
+				"KR": "등산용아이젠",
+				"EN": "Hiking safety pin"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "등산용아이젠",
+				"EN": "Hiking safety pin"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -870,11 +1088,16 @@
 		},
 		{
 			"item_id": 43,
-			"name_ko": "딱 성냥",
-			"name_en": null,
+			"item_name": {
+				"KR": "딱 성냥",
+				"EN": "Match"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "딱 성냥",
+				"EN": "Match"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -890,11 +1113,16 @@
 		},
 		{
 			"item_id": 44,
-			"name_ko": "뜨개질바늘",
-			"name_en": null,
+			"item_name": {
+				"KR": "뜨개질바늘",
+				"EN": "Knitting needle"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "뜨개질바늘",
+				"EN": "Knitting needle"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -913,11 +1141,16 @@
 		},
 		{
 			"item_id": 45,
-			"name_ko": "라코르스/하키 스틱",
-			"name_en": null,
+			"item_name": {
+				"KR": "라코르스/하키 스틱",
+				"EN": "Lacrosse/hockey stick"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "라코르스/하키 스틱",
+				"EN": "Lacrosse/hockey stick"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -933,12 +1166,17 @@
 		},
 		{
 			"item_id": 46,
-			"name_ko": "렌치/스패너",
-			"name_en": null,
+			"item_name": {
+				"KR": "렌치/스패너",
+				"EN": "Wrench/spanner"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
-			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
+			"description": {
+				"KR": "렌치/스패너",
+				"EN": "Wrench/spanner"
+			},
+			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체", "공구류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -953,11 +1191,16 @@
 		},
 		{
 			"item_id": 47,
-			"name_ko": "릴레이용 바통(단단하거나 휘어지는 종류로 곤봉, 경찰봉, 야경봉 및 바통 등)",
-			"name_en": null,
+			"item_name": {
+				"KR": "릴레이용 바통",
+				"EN": "Relay baton"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "릴레이용 바통(단단하거나 휘어지는 종류로 곤봉, 경찰봉, 야경봉 및 바통 등)",
+				"EN": "Relay baton (such as a baton, police baton, neon baton, and baton)"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -973,11 +1216,16 @@
 		},
 		{
 			"item_id": 48,
-			"name_ko": "머리 염색약·퍼머약 1인당 1개",
-			"name_en": null,
+			"item_name": {
+				"KR": "머리 염색약·퍼머약 1인당 1개",
+				"EN": "Hair dye/permanent dye per person less than 1"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": null,
+			"description": {
+				"KR": "머리 염색약·퍼머약 1인당 1개",
+				"EN": "Hair dye/permanent dye per person less than 1"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -993,11 +1241,16 @@
 		},
 		{
 			"item_id": 49,
-			"name_ko": "면도칼(해당물품은 권한을 가진 사람에게 위탁)",
-			"name_en": null,
+			"item_name": {
+				"KR": "면도칼(해당물품은 권한을 가진 사람에게 위탁)",
+				"EN": "Razor (this item is entrusted to a person with authority)"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "면도칼(해당물품은 권한을 가진 사람에게 위탁)",
+				"EN": "Razor (this item is entrusted to a person with authority)"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -1016,11 +1269,16 @@
 		},
 		{
 			"item_id": 50,
-			"name_ko": "면도칼과 칼날(안전성이 없는 포장재로 둘러싸인 면도기)",
-			"name_en": null,
+			"item_name": {
+				"KR": "면도칼과 칼날(안전성이 없는 포장재로 둘러싸인 면도기)",
+				"EN": "Razor and blade (a razor wrapped in an unsafe packaging material)"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "면도칼과 칼날(안전성이 없는 포장재로 둘러싸인 면도기)",
+				"EN": "Razor and blade (a razor wrapped in an unsafe packaging material)"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1036,11 +1294,16 @@
 		},
 		{
 			"item_id": 51,
-			"name_ko": "모든 총기류 및 화기류(회전식 권총, 소총, 권총 엽총 및 실탄 등으로 탄피를 포함)",
-			"name_en": null,
+			"item_name": {
+				"KR": "모든 총기류 및 화기류(회전식 권총, 소총, 권총 엽총 및 실탄 등으로 탄피를 포함)",
+				"EN": "All firearms and firearms (including a rotating pistol, rifle, pistol bullet, and bullet)"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "모든 총기류 및 화기류(회전식 권총, 소총, 권총 엽총 및 실탄 등으로 탄피를 포함)",
+				"EN": "All firearms and firearms (including a rotating pistol, rifle, pistol bullet, and bullet)"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1056,11 +1319,16 @@
 		},
 		{
 			"item_id": 52,
-			"name_ko": "모든 형태의 불꽃",
-			"name_en": null,
+			"item_name": {
+				"KR": "모든 형태의 불꽃",
+				"EN": "All forms of fire"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "모든 형태의 불꽃",
+				"EN": "All forms of fire"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1076,11 +1344,16 @@
 		},
 		{
 			"item_id": 53,
-			"name_ko": "무기로 사용될 수 있는 만큼의 길이를 갖고 금속 혹은 기타물질로 만들어져 날의 길이가 5.5cm이상 되는 칼(세라믹 칼 포함)",
-			"name_en": null,
+			"item_name": {
+				"KR": "무기로 사용될 수 있는 만큼의 길이를 갖고 금속 혹은 기타물질로 만들어져 날의 길이가 5.5cm이상 되는 칼(세라믹 칼 포함)",
+				"EN": "A knife with a length that can be used as a weapon, made of metal or other materials, and has a length of 5.5cm or more (including a ceramic knife)"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "무기로 사용될 수 있는 만큼의 길이를 갖고 금속 혹은 기타물질로 만들어져 날의 길이가 5.5cm이상 되는 칼(세라믹 칼 포함)",
+				"EN": "A knife with a length that can be used as a weapon, made of metal or other materials, and has a length of 5.5cm or more (including a ceramic knife)"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1096,11 +1369,16 @@
 		},
 		{
 			"item_id": 54,
-			"name_ko": "박스 커터칼",
-			"name_en": null,
+			"item_name": {
+				"KR": "박스 커터칼",
+				"EN": "Box cutter"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "박스 커터칼",
+				"EN": "Box cutter"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1116,11 +1394,16 @@
 		},
 		{
 			"item_id": 55,
-			"name_ko": "발파 캡",
-			"name_en": null,
+			"item_name": {
+				"KR": "발파 캡",
+				"EN": "Explosive cap"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "발파 캡",
+				"EN": "Explosive cap"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1136,11 +1419,16 @@
 		},
 		{
 			"item_id": 56,
-			"name_ko": "발화 장치처럼 뾰족하고 날카로운 무기로 사용될 수 있는 연장",
-			"name_en": null,
+			"item_name": {
+				"KR": "발화 장치처럼 뾰족하고 날카로운 무기로 사용될 수 있는 연장",
+				"EN": "A long, sharp, and pointy weapon that can be used as a fire device"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "발화 장치처럼 뾰족하고 날카로운 무기로 사용될 수 있는 연장",
+				"EN": "A long, sharp, and pointy weapon that can be used as a fire device"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1156,11 +1444,16 @@
 		},
 		{
 			"item_id": 57,
-			"name_ko": "방사능 물질(예, 의료용 또는 상업용 동위원소)",
-			"name_en": null,
+			"item_name": {
+				"KR": "방사능 물질",
+				"EN": "Radioactive material"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "방사능 물질(예, 의료용 또는 상업용 동위원소)",
+				"EN": "Radioactive material (e.g., medical or commercial isotopes)"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1176,11 +1469,16 @@
 		},
 		{
 			"item_id": 58,
-			"name_ko": "복제 또는 모조 폭발물질 또는 장치",
-			"name_en": null,
+			"item_name": {
+				"KR": "복제 또는 모조 폭발물질 또는 장치",
+				"EN": "Replica or imitation explosive material or device"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "복제 또는 모조 폭발물질 또는 장치",
+				"EN": "Replica or imitation explosive material or device"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1196,11 +1494,16 @@
 		},
 		{
 			"item_id": 59,
-			"name_ko": "복제품 및 모조품 소화기류",
-			"name_en": null,
+			"item_name": {
+				"KR": "복제품 및 모조품 소화기류",
+				"EN": "Replica and imitation fire extinguishers"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "복제품 및 모조품 소화기류",
+				"EN": "Replica and imitation fire extinguishers"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1216,11 +1519,16 @@
 		},
 		{
 			"item_id": 60,
-			"name_ko": "볼 베어링 총",
-			"name_en": null,
+			"item_name": {
+				"KR": "볼 베어링 총",
+				"EN": "Bowling ball gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "볼 베어링 총",
+				"EN": "Bowling ball gun"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1236,11 +1544,16 @@
 		},
 		{
 			"item_id": 61,
-			"name_ko": "볼링공",
-			"name_en": "Bowling ball",
+			"item_name": {
+				"KR": "볼링공",
+				"EN": "Bowling ball"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "sports_equipment",
-			"description": null,
+			"description": {
+				"KR": "볼링공",
+				"EN": "Bowling ball"
+			},
 			"tags": ["blunt_objects", "스포츠용품류", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -1256,11 +1569,16 @@
 		},
 		{
 			"item_id": 62,
-			"name_ko": "부식성 또는 표백성 물질(예, 수은, 염소)",
-			"name_en": null,
+			"item_name": {
+				"KR": "부식성 또는 표백성 물질(예, 수은, 염소)",
+				"EN": "Corrosive or bleaching material (e.g., mercury, chlorine)"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "부식성 또는 표백성 물질(예, 수은, 염소)",
+				"EN": "Corrosive or bleaching material (e.g., mercury, chlorine)"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1276,11 +1594,16 @@
 		},
 		{
 			"item_id": 63,
-			"name_ko": "빙상 스케이트",
-			"name_en": null,
+			"item_name": {
+				"KR": "빙상 스케이트",
+				"EN": "Ice skate"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "빙상 스케이트",
+				"EN": "Ice skate"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1296,11 +1619,16 @@
 		},
 		{
 			"item_id": 64,
-			"name_ko": "사브르",
-			"name_en": null,
+			"item_name": {
+				"KR": "사브르",
+				"EN": "Sabre"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "사브르",
+				"EN": "Sabre"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1316,11 +1644,16 @@
 		},
 		{
 			"item_id": 65,
-			"name_ko": "산성 및 알카리성 물질(예, 습식 배터리)",
-			"name_en": null,
+			"item_name": {
+				"KR": "산성 및 알카리성 물질(예, 습식 배터리)",
+				"EN": "Acidic and alkaline material (e.g., wet battery)"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "산성 및 알카리성 물질(예, 습식 배터리)",
+				"EN": "Acidic and alkaline material (e.g., wet battery)"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1336,11 +1669,16 @@
 		},
 		{
 			"item_id": 66,
-			"name_ko": "산업용 볼트 및 못 총",
-			"name_en": null,
+			"item_name": {
+				"KR": "산업용 볼트 및 못 총",
+				"EN": "Industrial bolt and nut gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "산업용 볼트 및 못 총",
+				"EN": "Industrial bolt and nut gun"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1356,11 +1694,16 @@
 		},
 		{
 			"item_id": 67,
-			"name_ko": "새총",
-			"name_en": "Catapults",
+			"item_name": {
+				"KR": "새총",
+				"EN": "Catapults"
+			},
 			"primary_category": "weapons",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "새총",
+				"EN": "Catapults"
+			},
 			"tags": ["weapons", "무기류", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1376,11 +1719,16 @@
 		},
 		{
 			"item_id": 68,
-			"name_ko": "소화기",
-			"name_en": "Fire extinguisher",
+			"item_name": {
+				"KR": "소화기",
+				"EN": "Fire extinguisher"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "소화기",
+				"EN": "Fire extinguisher"
+			},
 			"tags": ["chemical_toxic", "기타", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1396,11 +1744,16 @@
 		},
 		{
 			"item_id": 69,
-			"name_ko": "쇠지레",
-			"name_en": "Clowbar",
+			"item_name": {
+				"KR": "쇠지레",
+				"EN": "Clowbar"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "household_items",
-			"description": null,
+			"description": {
+				"KR": "쇠지레",
+				"EN": "Clowbar"
+			},
 			"tags": [
 				"sharp_objects",
 				"생활용품류",
@@ -1420,11 +1773,16 @@
 		},
 		{
 			"item_id": 70,
-			"name_ko": "수갑(범죄인 호송 등 공무목적 제외)",
-			"name_en": null,
+			"item_name": {
+				"KR": "수갑(범죄인 호송 등 공무목적 제외)",
+				"EN": "Handcuffs (excluding for official purposes such as transporting criminals)"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "수갑(범죄인 호송 등 공무목적 제외)",
+				"EN": "Handcuffs (excluding for official purposes such as transporting criminals)"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1440,11 +1798,16 @@
 		},
 		{
 			"item_id": 71,
-			"name_ko": "수류탄류",
-			"name_en": null,
+			"item_name": {
+				"KR": "수류탄류",
+				"EN": "Explosive grenades"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "수류탄류",
+				"EN": "Explosive grenades"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1460,11 +1823,16 @@
 		},
 		{
 			"item_id": 72,
-			"name_ko": "수예바늘",
-			"name_en": null,
+			"item_name": {
+				"KR": "수예바늘",
+				"EN": "Sewing needle"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "수예바늘",
+				"EN": "Sewing needle"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -1483,11 +1851,16 @@
 		},
 		{
 			"item_id": 73,
-			"name_ko": "수중횃불(랜턴)",
-			"name_en": null,
+			"item_name": {
+				"KR": "수중횃불(랜턴)",
+				"EN": "Underwater torch (lantern)"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "수중횃불(랜턴)",
+				"EN": "Underwater torch (lantern)"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1503,11 +1876,16 @@
 		},
 		{
 			"item_id": 74,
-			"name_ko": "스케이트보드",
-			"name_en": "Skateboard",
+			"item_name": {
+				"KR": "스케이트보드",
+				"EN": "Skateboard"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "sports_equipment",
-			"description": null,
+			"description": {
+				"KR": "스케이트보드",
+				"EN": "Skateboard"
+			},
 			"tags": ["blunt_objects", "스포츠용품류", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -1523,11 +1901,16 @@
 		},
 		{
 			"item_id": 75,
-			"name_ko": "스키용폴",
-			"name_en": null,
+			"item_name": {
+				"KR": "스키용폴",
+				"EN": "Ski pole"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "스키용폴",
+				"EN": "Ski pole"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1543,11 +1926,16 @@
 		},
 		{
 			"item_id": 76,
-			"name_ko": "스프레이 페인트(체류성 스프레이 포함)",
-			"name_en": null,
+			"item_name": {
+				"KR": "스프레이 페인트(체류성 스프레이 포함)",
+				"EN": "Spray paint (including stationary spray)"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "스프레이 페인트(체류성 스프레이 포함)",
+				"EN": "Spray paint (including stationary spray)"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1563,11 +1951,16 @@
 		},
 		{
 			"item_id": 77,
-			"name_ko": "신호기 화염총",
-			"name_en": null,
+			"item_name": {
+				"KR": "신호기 화염총",
+				"EN": "Signal flare gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "신호기 화염총",
+				"EN": "Signal flare gun"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1583,11 +1976,16 @@
 		},
 		{
 			"item_id": 78,
-			"name_ko": "실제와 유사한 형태의 모사 총기류",
-			"name_en": null,
+			"item_name": {
+				"KR": "실제와 유사한 형태의 모사 총기류",
+				"EN": "Replica firearms"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "실제와 유사한 형태의 모사 총기류",
+				"EN": "Replica firearms"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1603,11 +2001,16 @@
 		},
 		{
 			"item_id": 79,
-			"name_ko": "아령",
-			"name_en": null,
+			"item_name": {
+				"KR": "아령",
+				"EN": "Dumbbell"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "아령",
+				"EN": "Dumbbell"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -1623,11 +2026,16 @@
 		},
 		{
 			"item_id": 80,
-			"name_ko": "안전캡이 부착된 가스작동용 헤어컬",
-			"name_en": null,
+			"item_name": {
+				"KR": "안전캡이 부착된 가스작동용 헤어컬",
+				"EN": "Gas-operated hair dryer with safety cap"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": null,
+			"description": {
+				"KR": "안전캡이 부착된 가스작동용 헤어컬",
+				"EN": "Gas-operated hair dryer with safety cap"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1643,11 +2051,16 @@
 		},
 		{
 			"item_id": 81,
-			"name_ko": "야구방망이 및 소프트볼 배트",
-			"name_en": null,
+			"item_name": {
+				"KR": "야구방망이 및 소프트볼 배트",
+				"EN": "Baseball bat and softball bat"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "야구방망이 및 소프트볼 배트",
+				"EN": "Baseball bat and softball bat"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -1663,11 +2076,16 @@
 		},
 		{
 			"item_id": 82,
-			"name_ko": "양궁",
-			"name_en": "Archery",
+			"item_name": {
+				"KR": "양궁",
+				"EN": "Archery"
+			},
 			"primary_category": "weapons",
 			"sub_category": "sports_equipment",
-			"description": null,
+			"description": {
+				"KR": "양궁",
+				"EN": "Archery"
+			},
 			"tags": ["weapons", "스포츠용품류", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1683,11 +2101,16 @@
 		},
 		{
 			"item_id": 83,
-			"name_ko": "얼음깨는 도끼 및 얼음송곳,",
-			"name_en": null,
+			"item_name": {
+				"KR": "얼음깨는 도끼 및 얼음송곳,",
+				"EN": "Icebreaker axe and ice pick"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "얼음깨는 도끼 및 얼음송곳,",
+				"EN": "Icebreaker axe and ice pick"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1703,11 +2126,16 @@
 		},
 		{
 			"item_id": 84,
-			"name_ko": "에너지원이 제거된 납땜장비",
-			"name_en": null,
+			"item_name": {
+				"KR": "에너지원이 제거된 납땜장비",
+				"EN": "Energy-free soldering equipment"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "에너지원이 제거된 납땜장비",
+				"EN": "Energy-free soldering equipment"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1723,11 +2151,16 @@
 		},
 		{
 			"item_id": 85,
-			"name_ko": "에어로졸(살충제)",
-			"name_en": null,
+			"item_name": {
+				"KR": "에어로졸(살충제)",
+				"EN": "Aerosol (insecticide)"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "에어로졸(살충제)",
+				"EN": "Aerosol (insecticide)"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1743,11 +2176,16 @@
 		},
 		{
 			"item_id": 86,
-			"name_ko": "연기를 발생시키는 불연성·불활성 깡통 및 카트리지",
-			"name_en": null,
+			"item_name": {
+				"KR": "연기를 발생시키는 불연성·불활성 깡통 및 카트리지",
+				"EN": "Inert, non-flammable containers and cartridges that produce smoke"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "연기를 발생시키는 불연성·불활성 깡통 및 카트리지",
+				"EN": "Inert, non-flammable containers and cartridges that produce smoke"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1763,11 +2201,16 @@
 		},
 		{
 			"item_id": 87,
-			"name_ko": "연료없는 석유버너·램프 등 캠핑장비",
-			"name_en": null,
+			"item_name": {
+				"KR": "연료없는 석유버너·램프 등 캠핑장비",
+				"EN": "Camping equipment such as oil-free gas burners and lanterns"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "연료없는 석유버너·램프 등 캠핑장비",
+				"EN": "Camping equipment such as oil-free gas burners and lanterns"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -1783,11 +2226,16 @@
 		},
 		{
 			"item_id": 88,
-			"name_ko": "외과용 메스",
-			"name_en": "Scalpels",
+			"item_name": {
+				"KR": "외과용 메스",
+				"EN": "Scalpels"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "외과용 메스",
+				"EN": "Scalpels"
+			},
 			"tags": ["sharp_objects", "무기류", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1803,12 +2251,21 @@
 		},
 		{
 			"item_id": 89,
-			"name_ko": "요리용 다지기",
-			"name_en": null,
+			"item_name": {
+				"KR": "요리용 다지기",
+				"EN": "Food processor"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
-			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
+			"description": {
+				"KR": "요리용 다지기",
+				"EN": "Food processor"
+			},
+			"tags": [
+				"sharp_objects",
+				"끝이 뾰족한 무기및 날카로운 물체",
+				"meat crusher"
+			],
 			"rules_summary": {
 				"KR": {
 					"carry_on": true,
@@ -1823,11 +2280,16 @@
 		},
 		{
 			"item_id": 90,
-			"name_ko": "용기 당 최고 500㎖ 이하의 마찰(Rubbing)알콜",
-			"name_en": null,
+			"item_name": {
+				"KR": "용기 당 최고 500㎖ 이하의 마찰(Rubbing)알콜",
+				"EN": "Alcohol rubbing (up to 500 ml per container)"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": null,
+			"description": {
+				"KR": "용기 당 최고 500㎖ 이하의 마찰(Rubbing)알콜",
+				"EN": "Alcohol rubbing (up to 500 ml per container)"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1843,11 +2305,16 @@
 		},
 		{
 			"item_id": 91,
-			"name_ko": "은장도",
-			"name_en": null,
+			"item_name": {
+				"KR": "은장도",
+				"EN": "Knife"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "은장도",
+				"EN": "Knife"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -1866,11 +2333,16 @@
 		},
 		{
 			"item_id": 92,
-			"name_ko": "인화성 액체 연료(예, 석유/가솔린, 디젤, 라이터용 액체, 알콜, 에탄올)",
-			"name_en": null,
+			"item_name": {
+				"KR": "인화성 액체 연료",
+				"EN": "Flammable liquid fuel"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "인화성 액체 연료(예, 석유/가솔린, 디젤, 라이터용 액체, 알콜, 에탄올)",
+				"EN": "Flammable liquid fuel (e.g., petroleum/gasoline, diesel, liquid for lighters, alcohol, ethanol)"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1886,11 +2358,16 @@
 		},
 		{
 			"item_id": 93,
-			"name_ko": "자연발화 및 자연점화 물질",
-			"name_en": null,
+			"item_name": {
+				"KR": "자연발화 및 자연점화 물질",
+				"EN": "Self-igniting and self-combustible materials"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "자연발화 및 자연점화 물질",
+				"EN": "Self-igniting and self-combustible materials"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1906,11 +2383,16 @@
 		},
 		{
 			"item_id": 94,
-			"name_ko": "작살 및 창",
-			"name_en": null,
+			"item_name": {
+				"KR": "작살 및 창",
+				"EN": "Spear and arrow"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "작살 및 창",
+				"EN": "Spear and arrow"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -1926,12 +2408,17 @@
 		},
 		{
 			"item_id": 95,
-			"name_ko": "작살 및 창 발사 총",
-			"name_en": null,
+			"item_name": {
+				"KR": "작살 및 창 발사 총",
+				"EN": "Spear and arrow gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
-			"tags": ["weapons", "화기류, 총기류,무기류"],
+			"description": {
+				"KR": "작살 및 창 발사 총",
+				"EN": "Spear and arrow gun"
+			},
+			"tags": ["weapons", "화기류", "총기류", "무기류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -1946,11 +2433,16 @@
 		},
 		{
 			"item_id": 96,
-			"name_ko": "재봉바늘",
-			"name_en": "Sewing machine needle",
+			"item_name": {
+				"KR": "재봉바늘",
+				"EN": "Sewing machine needle"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "household_items",
-			"description": null,
+			"description": {
+				"KR": "재봉바늘",
+				"EN": "Sewing machine needle"
+			},
 			"tags": [
 				"security_high_alert",
 				"생활용품류",
@@ -1970,11 +2462,16 @@
 		},
 		{
 			"item_id": 97,
-			"name_ko": "전염성 혹은 생물학적 위험 물질(예, 감염된 피, 박테리아 및 바이러스)",
-			"name_en": null,
+			"item_name": {
+				"KR": "전염성 혹은 생물학적 위험 물질",
+				"EN": "Contagious or biological hazardous materials"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "전염성 혹은 생물학적 위험 물질(예, 감염된 피, 박테리아 및 바이러스)",
+				"EN": "Contagious or biological hazardous materials (e.g., infected blood, bacteria and viruses)"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -1990,11 +2487,16 @@
 		},
 		{
 			"item_id": 98,
-			"name_ko": "주사바늘",
-			"name_en": "Injection syringe",
+			"item_name": {
+				"KR": "주사바늘",
+				"EN": "Injection syringe"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "medical_equipment",
-			"description": null,
+			"description": {
+				"KR": "단, 기내에서 의료목적으로 소지한다는 증명서류가 있는 경우에 한한다",
+				"EN": "Provided that there is a document proving that the syringe is for medical purposes on board"
+			},
 			"tags": [
 				"security_high_alert",
 				"의료용품류",
@@ -2013,35 +2515,17 @@
 			"source_last_checked": null
 		},
 		{
-			"item_id": 99,
-			"name_ko": "주사바늘(단, 기내에서 의료목적으로 소지한다는 증명서류가 있는 경우에 한한다)",
-			"name_en": null,
-			"primary_category": "security_high_alert",
-			"sub_category": "security_high_alert",
-			"description": null,
-			"tags": [
-				"security_high_alert",
-				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
-			],
-			"rules_summary": {
-				"KR": {
-					"carry_on": true,
-					"checked": true
-				}
-			},
-			"rules_sources": {
-				"KR": ["국토교통부(2020-09-28)"]
-			},
-			"published": true,
-			"source_last_checked": null
-		},
-		{
 			"item_id": 100,
-			"name_ko": "지뢰 및 기타 군사용 폭발물",
-			"name_en": null,
+			"item_name": {
+				"KR": "지뢰 및 기타 군사용 폭발물",
+				"EN": "Landmines and other military explosives"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "지뢰 및 기타 군사용 폭발물",
+				"EN": "Landmines and other military explosives"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2057,12 +2541,17 @@
 		},
 		{
 			"item_id": 101,
-			"name_ko": "채찍류",
-			"name_en": null,
+			"item_name": {
+				"KR": "채찍류",
+				"EN": "Whips"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
-			"tags": ["weapons", "화기류, 총기류,무기류"],
+			"description": {
+				"KR": "채찍류",
+				"EN": "Whips"
+			},
+			"tags": ["weapons", "화기류", "총기류", "무기류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -2077,11 +2566,16 @@
 		},
 		{
 			"item_id": 102,
-			"name_ko": "총 길이가 10cm를 초과하는 스크류 드라이버류",
-			"name_en": null,
+			"item_name": {
+				"KR": "스크류 드라이버류(총 길이가 10cm를 초과하는 것)",
+				"EN": "Screwdriver (longer than 10cm)"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "총 길이가 10cm를 초과하는 스크류 드라이버류",
+				"EN": "Screwdriver longer than 10cm"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2097,12 +2591,17 @@
 		},
 		{
 			"item_id": 103,
-			"name_ko": "총기모양의 라이터",
-			"name_en": null,
+			"item_name": {
+				"KR": "총기모양의 라이터",
+				"EN": "Lighter shaped like a gun"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
-			"tags": ["weapons", "화기류, 총기류,무기류"],
+			"description": {
+				"KR": "총기모양의 라이터",
+				"EN": "Lighter shaped like a gun"
+			},
+			"tags": ["weapons", "화기류", "총기류", "무기류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -2117,11 +2616,16 @@
 		},
 		{
 			"item_id": 104,
-			"name_ko": "최루가스",
-			"name_en": "tear gas",
+			"item_name": {
+				"KR": "최루가스",
+				"EN": "tear gas"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "최루가스",
+				"EN": "tear gas"
+			},
 			"tags": ["chemical_toxic", "무기류", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2137,12 +2641,17 @@
 		},
 		{
 			"item_id": 105,
-			"name_ko": "추진발사용 무기",
-			"name_en": null,
+			"item_name": {
+				"KR": "추진발사용 무기",
+				"EN": "Propellant-fired weapon"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
-			"tags": ["weapons", "화기류, 총기류,무기류"],
+			"description": {
+				"KR": "추진발사용 무기",
+				"EN": "Propellant-fired weapon"
+			},
+			"tags": ["weapons", "화기류", "총기류", "무기류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -2157,12 +2666,17 @@
 		},
 		{
 			"item_id": 106,
-			"name_ko": "충격장치(예: 가축 찌르는 막대)",
-			"name_en": null,
+			"item_name": {
+				"KR": "충격장치",
+				"EN": "Impact device"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
-			"tags": ["weapons", "화기류, 총기류,무기류"],
+			"description": {
+				"KR": "예: 가축 찌르는 막대",
+				"EN": "e.g., stick to stab livestock"
+			},
+			"tags": ["weapons", "화기류", "총기류", "무기류"],
 			"rules_summary": {
 				"KR": {
 					"carry_on": false,
@@ -2177,11 +2691,16 @@
 		},
 		{
 			"item_id": 107,
-			"name_ko": "카메라 삼각대",
-			"name_en": null,
+			"item_name": {
+				"KR": "카메라 삼각대",
+				"EN": "Camera tripod"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "카메라 삼각대",
+				"EN": "Camera tripod"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -2197,11 +2716,16 @@
 		},
 		{
 			"item_id": 108,
-			"name_ko": "카약 및 카누 패들",
-			"name_en": null,
+			"item_name": {
+				"KR": "카약 및 카누 패들",
+				"EN": "Kayak and canoe paddles"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "카약 및 카누 패들",
+				"EN": "Kayak and canoe paddles"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -2217,11 +2741,16 @@
 		},
 		{
 			"item_id": 109,
-			"name_ko": "칼이 포함되어 있지 않은 손톱깍이 세트",
-			"name_en": null,
+			"item_name": {
+				"KR": "칼이 포함되어 있지 않은 손톱깍이 세트",
+				"EN": "Set of nail files without a knife"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "칼이 포함되어 있지 않은 손톱깍이 세트",
+				"EN": "Set of nail files without a knife"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2237,11 +2766,16 @@
 		},
 		{
 			"item_id": 110,
-			"name_ko": "코르크 마개뽑이",
-			"name_en": null,
+			"item_name": {
+				"KR": "코르크 마개뽑이",
+				"EN": "Corkscrew"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "코르크 마개뽑이",
+				"EN": "Corkscrew"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -2260,11 +2794,16 @@
 		},
 		{
 			"item_id": 111,
-			"name_ko": "콤파스",
-			"name_en": null,
+			"item_name": {
+				"KR": "콤파스",
+				"EN": "Compass"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "콤파스",
+				"EN": "Compass"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -2283,11 +2822,16 @@
 		},
 		{
 			"item_id": 112,
-			"name_ko": "크리킷",
-			"name_en": null,
+			"item_name": {
+				"KR": "크리킷",
+				"EN": "Cricket bat"
+			},
 			"primary_category": "blunt_objects",
 			"sub_category": "blunt_objects",
-			"description": null,
+			"description": {
+				"KR": "크리킷",
+				"EN": "Cricket bat"
+			},
 			"tags": ["blunt_objects", "둔기"],
 			"rules_summary": {
 				"KR": {
@@ -2303,11 +2847,16 @@
 		},
 		{
 			"item_id": 113,
-			"name_ko": "탄약",
-			"name_en": null,
+			"item_name": {
+				"KR": "탄약",
+				"EN": "Ammunition"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "탄약",
+				"EN": "Ammunition"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2323,11 +2872,16 @@
 		},
 		{
 			"item_id": 114,
-			"name_ko": "테레빈유 및 페인트 신나",
-			"name_en": null,
+			"item_name": {
+				"KR": "테레빈유 및 페인트 신나",
+				"EN": "Terebinthine oil and paint thinner"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "테레빈유 및 페인트 신나",
+				"EN": "Terebinthine oil and paint thinner"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2343,11 +2897,16 @@
 		},
 		{
 			"item_id": 115,
-			"name_ko": "텐트폴 및 팩",
-			"name_en": null,
+			"item_name": {
+				"KR": "텐트폴 및 팩",
+				"EN": "Tent poles and packs"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "텐트폴 및 팩",
+				"EN": "Tent poles and packs"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -2366,11 +2925,16 @@
 		},
 		{
 			"item_id": 116,
-			"name_ko": "톱류",
-			"name_en": "All saws",
+			"item_name": {
+				"KR": "톱류",
+				"EN": "All saws"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "household_items",
-			"description": null,
+			"description": {
+				"KR": "톱류",
+				"EN": "All saws"
+			},
 			"tags": [
 				"sharp_objects",
 				"생활용품류",
@@ -2390,11 +2954,16 @@
 		},
 		{
 			"item_id": 117,
-			"name_ko": "편지봉투 개봉용칼",
-			"name_en": null,
+			"item_name": {
+				"KR": "편지봉투 개봉용칼",
+				"EN": "Letter opener"
+			},
 			"primary_category": "security_high_alert",
 			"sub_category": "security_high_alert",
-			"description": null,
+			"description": {
+				"KR": "편지봉투 개봉용칼",
+				"EN": "Letter opener"
+			},
 			"tags": [
 				"security_high_alert",
 				"국토해양부장관이 지정한 고위험이 예상되는 비행편 또는 항공보안 등급 경계경보(Orange) 단계이상"
@@ -2413,11 +2982,16 @@
 		},
 		{
 			"item_id": 118,
-			"name_ko": "폭발물 및 폭파장치",
-			"name_en": null,
+			"item_name": {
+				"KR": "폭발물 및 폭파장치",
+				"EN": "Explosives and explosive devices"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "폭발물 및 폭파장치",
+				"EN": "Explosives and explosive devices"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2433,11 +3007,16 @@
 		},
 		{
 			"item_id": 119,
-			"name_ko": "표창(Throwing stars)",
-			"name_en": null,
+			"item_name": {
+				"KR": "표창",
+				"EN": "Throwing stars"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "표창(Throwing stars)",
+				"EN": "Throwing stars"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2453,11 +3032,16 @@
 		},
 		{
 			"item_id": 120,
-			"name_ko": "항공사 승무원이 기내 이용 목적으로 직접 소지하는 와인 오프너",
-			"name_en": null,
+			"item_name": {
+				"KR": "항공사 승무원이 기내 이용 목적으로 직접 소지하는 와인 오프너",
+				"EN": "Wine opener for airline crew"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "항공사 승무원이 기내 이용 목적으로 직접 소지하는 와인 오프너",
+				"EN": "Wine opener for airline crew"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2473,11 +3057,16 @@
 		},
 		{
 			"item_id": 121,
-			"name_ko": "항공사의 승인을 받고 기상청 또는 이와 유사한 기관 대리인의 책임하에 운송되는 수은기압계 또는 온도계",
-			"name_en": null,
+			"item_name": {
+				"KR": "항공사의 승인을 받고 기상청 또는 이와 유사한 기관 대리인의 책임하에 운송되는 수은기압계 또는 온도계",
+				"EN": "Mercury manometer or thermometer"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "항공사의 승인을 받고 기상청 또는 이와 유사한 기관 대리인의 책임하에 운송되는 수은기압계 또는 온도계",
+				"EN": "Mercury manometer or thermometer"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2493,11 +3082,16 @@
 		},
 		{
 			"item_id": 122,
-			"name_ko": "항공사의 승인을 받은 용액의 누출가능성이 없는 전지로 작동되는 휠체어나 기타 전지 작동 이동 보조 장비 [단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
-			"name_en": null,
+			"item_name": {
+				"KR": "항공사의 승인을 받은 용액의 누출가능성이 없는 전지로 작동되는 휠체어나 기타 전지 작동 이동 보조 장비 [단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+				"EN": "Wheelchair or other battery-operated mobility aids approved by the airline [Note: The item must comply with Article 210 of the 'Standard for the Transportation of Dangerous Goods by Air' (Korea Maritime and Ocean Agency Notice No. 2009-1222) (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "항공사의 승인을 받은 용액의 누출가능성이 없는 전지로 작동되는 휠체어나 기타 전지 작동 이동 보조 장비 [단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+				"EN": "Wheelchair or other battery-operated mobility aids approved by the airline [Note: The item must comply with Article 210 of the 'Standard for the Transportation of Dangerous Goods by Air' (Korea Maritime and Ocean Agency Notice No. 2009-1222) (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2513,11 +3107,16 @@
 		},
 		{
 			"item_id": 123,
-			"name_ko": "항공운송사업자의 승인을 받은 용액의 누출 가능성이 있는 전지로 작동되는 휠체어나 기타 이동 보조장비[단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
-			"name_en": null,
+			"item_name": {
+				"KR": "항공운송사업자의 승인을 받은 용액의 누출 가능성이 있는 전지로 작동되는 휠체어나 기타 이동 보조장비[단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+				"EN": "Wheelchair or other battery-operated mobility aids approved by the airline [Note: The item must comply with Article 210 of the 'Standard for the Transportation of Dangerous Goods by Air' (Korea Maritime and Ocean Agency Notice No. 2009-1222) (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "chemical_toxic",
-			"description": null,
+			"description": {
+				"KR": "항공운송사업자의 승인을 받은 용액의 누출 가능성이 있는 전지로 작동되는 휠체어나 기타 이동 보조장비[단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+				"EN": "Wheelchair or other battery-operated mobility aids approved by the airline [Note: The item must comply with Article 210 of the 'Standard for the Transportation of Dangerous Goods by Air' (Korea Maritime and Ocean Agency Notice No. 2009-1222) (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]"
+			},
 			"tags": ["chemical_toxic", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2533,11 +3132,16 @@
 		},
 		{
 			"item_id": 124,
-			"name_ko": "해머 및 프라이어",
-			"name_en": null,
+			"item_name": {
+				"KR": "해머 및 프라이어",
+				"EN": "Hammer and pry bar"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "해머 및 프라이어",
+				"EN": "Hammer and pry bar"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2553,11 +3157,16 @@
 		},
 		{
 			"item_id": 125,
-			"name_ko": "호신용 스프레이",
-			"name_en": "Self-defense spray",
+			"item_name": {
+				"KR": "호신용 스프레이",
+				"EN": "Self-defense spray"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "호신용 스프레이",
+				"EN": "Self-defense spray"
+			},
 			"tags": ["chemical_toxic", "무기류", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2573,11 +3182,16 @@
 		},
 		{
 			"item_id": 126,
-			"name_ko": "화기류의 부속품(망원장치 제외)",
-			"name_en": null,
+			"item_name": {
+				"KR": "화기류의 부속품(망원장치 제외)",
+				"EN": "Accessories for firearms (excluding telescopes)"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "화기류의 부속품(망원장치 제외)",
+				"EN": "Accessories for firearms (excluding telescopes)"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
@@ -2593,11 +3207,16 @@
 		},
 		{
 			"item_id": 127,
-			"name_ko": "화살 및 다트(던지는 화살)",
-			"name_en": null,
+			"item_name": {
+				"KR": "화살 및 다트(던지는 화살)",
+				"EN": "Arrows and darts (throwing arrows)"
+			},
 			"primary_category": "sharp_objects",
 			"sub_category": "sharp_objects",
-			"description": null,
+			"description": {
+				"KR": "화살 및 다트(던지는 화살)",
+				"EN": "Arrows and darts (throwing arrows)"
+			},
 			"tags": ["sharp_objects", "끝이 뾰족한 무기및 날카로운 물체"],
 			"rules_summary": {
 				"KR": {
@@ -2613,11 +3232,16 @@
 		},
 		{
 			"item_id": 128,
-			"name_ko": "화염 및 기타 불꽃 제조품(파티 폭죽 및 장난감 캡 포함)",
-			"name_en": null,
+			"item_name": {
+				"KR": "화염 및 기타 불꽃 제조품(파티 폭죽 및 장난감 캡 포함)",
+				"EN": "Fireworks and other pyrotechnic devices (including party fireworks and toy caps)"
+			},
 			"primary_category": "explosives_flammable",
 			"sub_category": "explosives_flammable",
-			"description": null,
+			"description": {
+				"KR": "화염 및 기타 불꽃 제조품(파티 폭죽 및 장난감 캡 포함)",
+				"EN": "Fireworks and other pyrotechnic devices (including party fireworks and toy caps)"
+			},
 			"tags": ["explosives_flammable", "폭발물과 인화성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2633,11 +3257,16 @@
 		},
 		{
 			"item_id": 129,
-			"name_ko": "화장용 아세톤 각 1개",
-			"name_en": null,
+			"item_name": {
+				"KR": "화장용 아세톤 각 1개",
+				"EN": "Acetone for makeup (each)"
+			},
 			"primary_category": "liquids_gels",
 			"sub_category": "liquids_gels",
-			"description": null,
+			"description": {
+				"KR": "화장용 아세톤 각 1개",
+				"EN": "Acetone for makeup (each)"
+			},
 			"tags": ["liquids_gels", "액체/겔(gel)류 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2653,11 +3282,16 @@
 		},
 		{
 			"item_id": 130,
-			"name_ko": "후추 스프레이",
-			"name_en": "Pepper spray",
+			"item_name": {
+				"KR": "후추 스프레이",
+				"EN": "Pepper spray"
+			},
 			"primary_category": "chemical_toxic",
 			"sub_category": "weapons",
-			"description": null,
+			"description": {
+				"KR": "후추 스프레이",
+				"EN": "Pepper spray"
+			},
 			"tags": ["chemical_toxic", "무기류", "화학물질 및 유독성 물질"],
 			"rules_summary": {
 				"KR": {
@@ -2673,11 +3307,16 @@
 		},
 		{
 			"item_id": 131,
-			"name_ko": "휴대용 라이터 1개(선물용으로 포장되고 연료가 없는 경우 휴대 또는 위탁으로 3개까지 가능)",
-			"name_en": null,
+			"item_name": {
+				"KR": "휴대용 라이터 1개(선물용으로 포장되고 연료가 없는 경우 휴대 또는 위탁으로 3개까지 가능)",
+				"EN": "Portable lighter (up to 3 can be carried or shipped as gifts without fuel)"
+			},
 			"primary_category": "weapons",
 			"sub_category": "firearms_weapons",
-			"description": null,
+			"description": {
+				"KR": "휴대용 라이터 1개(선물용으로 포장되고 연료가 없는 경우 휴대 또는 위탁으로 3개까지 가능)",
+				"EN": "Portable lighter (up to 3 can be carried or shipped as gifts without fuel)"
+			},
 			"tags": ["weapons", "화기류, 총기류,무기류"],
 			"rules_summary": {
 				"KR": {
