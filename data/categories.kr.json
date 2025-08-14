@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "blunt_objects",
+      "sub_categories": [
+        "blunt_objects",
+        "sports_equipment",
+        "weapons"
+      ]
+    },
+    {
+      "name": "chemical_toxic",
+      "sub_categories": [
+        "chemical_toxic",
+        "medical_equipment",
+        "weapons"
+      ]
+    },
+    {
+      "name": "explosives_flammable",
+      "sub_categories": [
+        "explosives_flammable"
+      ]
+    },
+    {
+      "name": "liquids_gels",
+      "sub_categories": [
+        "liquids_gels"
+      ]
+    },
+    {
+      "name": "security_high_alert",
+      "sub_categories": [
+        "household_items",
+        "medical_equipment",
+        "security_high_alert",
+        "weapons"
+      ]
+    },
+    {
+      "name": "sharp_objects",
+      "sub_categories": [
+        "household_items",
+        "sharp_objects",
+        "weapons"
+      ]
+    },
+    {
+      "name": "weapons",
+      "sub_categories": [
+        "firearms_weapons",
+        "sports_equipment",
+        "weapons"
+      ]
+    }
+  ]
+}
