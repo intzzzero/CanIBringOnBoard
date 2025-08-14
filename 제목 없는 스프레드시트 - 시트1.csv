@@ -1,0 +1,505 @@
+번호,금지물품(한글),금지물품(영문),금지물품 대분류,검색건수
+1,라이터(라이타),Lighter,인화성류,593
+2,일회용 라이터,Disposable Lighter,인화성류,285
+3,지포 라이터,Zippo lighter,인화성류,138
+5,총기모양 라이터,Gun shaped lighter,인화성류,28
+6,연료없는 라이터,No fuel lighter,인화성류,7
+7,라이터 가스 연료,Lighter gas refills,인화성류,81
+8,라이터 액체 연료,Lighter fluid reflls,인화성류,108
+9,라이터 연료,Lighter fuel,인화성류,25
+10,대형 일회용 라이터,Big lighter,인화성류,16
+12,전자담배,Electronic cigarette,전자제품류,18569
+13,칼,Knife,무기류,14762
+14,무술용 검,Art sword,무기류,63
+15,펜싱용 검,Saber,무기류,21
+16,칼이 든 지팡이,Swordcane,무기류,4
+17,한약봉지자르는칼(한약파우치커터),Chinese medicine cutting knife,무기류,15
+18,안전벨트자르는칼(안전벨트커터),Seat belt cutter,무기류,36
+19,얼음조각칼,Ice carving knife,무기류,4
+20,조각칼,Carving knife,무기류,31
+21,세라믹 칼,Ceramic knife,무기류,6
+22,부엌칼,Kitchen knife,무기류,182
+23,과도,Fruit knife,무기류,526
+24,다목적 칼(다용도 칼),Utility knife,무기류,12
+25,사냥칼,Hunting knife,무기류,37
+26,접이식 칼,Foldable knife,무기류,66
+27,맥가이버칼,Swiss army knife,무기류,533
+28,박스커터칼,Box cutters,무기류,129
+29,외과용 메스,Scalpels,무기류,102
+30,잭나이프,Jackknife,무기류,31
+31,전기면도기,Electric razor,무기류,1061
+32,일회용 면도기,Disposable razor,무기류,326
+33,수동식금속면도기,Safety razor,무기류,106
+34,안전면도기,Safety razor,무기류,122
+35,면도칼,Razor blade,무기류,360
+36,면도기 칼 카트리지,Razor cartridge,무기류,111
+37,창,Spear,무기류,10
+38,작살,Harpoon,무기류,83
+39,작살총,Speargun,무기류,426
+40,표창,Throwing stars,무기류,76
+41,너클,Knuckle,무기류,31
+42,철권,Iron first weapon,무기류,3
+43,다트(송곳날이 있는 경우),Shart point darts,무기류,1
+44,새총,Catapults,무기류,111
+45,쌍절곤,Numchucks,무기류,89
+46,곤봉,Goshes,무기류,57
+47,경찰봉,Billy club,무기류,96
+48,수갑,Handcuffs for criminals,무기류,314
+49,호신용 스프레이,Self-defense spray,무기류,269
+50,후추 스프레이,Pepper spray,무기류,18
+51,고추 스프레이,Pepper spray,무기류,40
+52,권총,Gun,무기류,263
+53,연발권총,Roscoe,무기류,5
+54,엽총,Shot gun,무기류,18
+55,소총,Rifle,무기류,6
+56,산탄총,Shot gun,무기류,11
+57,압축공기총,Aquapulse gun,무기류,6
+58,라이플총,Rifle,무기류,19
+59,볼베어링총,Ball bering gun,무기류,6
+60,가스충전식 총,Gas gun,무기류,27
+61,전자충격기,Stun gun,무기류,674
+62,테이저건,Taiser gun,무기류,98
+63,조준경,Telescopic sighting devices,무기류,281
+64,개머리판,A butt plate of a rifle,무기류,35
+65,총기의 구성부품,Part of gun,무기류,25
+66,신호탄용 총,Flare gun,무기류,9
+67,출발 신호용 총,Starter pistole,무기류,2
+68,복제 총기류,Replica guns,무기류,201
+69,모의 총기류,Fake guns,무기류,17
+70,BB총,BB Gun,무기류,30
+72,장난감 총,Toy gun,무기류,208
+73,실탄,Ammunition,무기류,247
+74,공포탄,Blank ammunitionn,무기류,22
+75,총알,Bullet,무기류,159
+76,다이너마이트,Dynamite,인화성류,21
+77,수류탄,Grenade,인화성류,54
+78,지뢰,Landmine,인화성류,109
+79,뇌관,Blasting caps,인화성류,164
+80,기폭장치류,Denotes,인화성류,53
+81,격발뇌관,Percussion cap,인화성류,1
+82,화약,Gunpowder,인화성류,61
+83,무연화약,Smokeless gunpowder,인화성류,3
+84,백색화약,White gunpowder,인화성류,0
+85,불꽃놀이,Fireworks,인화성류,11
+86,폭죽,Firecracker,인화성류,217
+87,스파클러,Sparklers,인화성류,13
+88,복제 폭발물,Replica bombs,인화성류,63
+89,모의 폭발물,Fake bombs,인화성류,6
+90,폭발장치,Explosive device,인화성류,7
+91,조명탄,Light flare,인화성류,34
+92,신호탄,Signal flare,인화성류,48
+93,화염탄,Fire ball,인화성류,1
+94,연막탄,Smoke grenade,인화성류,59
+95,공구,Tool,생활용품류,718
+96,도끼,Ax,생활용품류,107
+97,손도끼,Hatchet,생활용품류,6
+98,쇄빙도끼,Ice axe,생활용품류,7
+99,장도리,Claw hammer,생활용품류,0
+100,쇠지레,Clowbar,생활용품류,43
+101,산업용 못총,Nail gun,생활용품류,3
+102,타정총,Nail gun,생활용품류,48
+103,볼트건(볼트총),Bolt gun,생활용품류,0
+104,얼음송곳,Ice pick,생활용품류,11
+105,휴대용 전동톱,Potable electric saw,생활용품류,10
+106,톱류,All saws,생활용품류,4
+107,전동드릴,Electric drill,생활용품류,597
+108,드릴류,Drills,생활용품류,109
+109,렌치(총길이 10cm 초과),Wrench(longer than 10cm),생활용품류,26
+110,렌치(총길이 10cm 이하),Wrench(10cm or less),생활용품류,12
+111,스패너(총길이 10cm 초과),Spanner(longer than 10cm),생활용품류,75
+112,스패너(총길이 10cm 이하),Spanner(10cm or less),생활용품류,9
+113,펜치(총길이 10cm 초과),Plier(longer than 10cm),생활용품류,9
+114,펜치(총길이 10cm 이하),Plier(10cm or less),생활용품류,10
+115,프라이어(총길이 10cm 초과),Plier(longer than 10cm),생활용품류,4
+116,프라이어(총길이 10cm 이하),Plier(10cm or less),생활용품류,2
+117,스크루드라이버(날길이 6cm 초과),Screwdriver with a blade longer than 6cm,생활용품류,51
+118,스크루드라이버(날길이 6cm 이하),Screwdriver with a blade of 6cm or less,생활용품류,165
+119,드릴날 (총길이 6cm 이상),Drill bit,생활용품류,64
+121,끌(끌길이 6cm 초과),Chisel with a blade longer than 6cm,생활용품류,4
+122,끌(끌길이 6cm 이하),Chisel with a blade of 6cm or less,생활용품류,15
+123,정(정길이 6cm 초과),Burin with a blade longer than 6cm,생활용품류,1
+124,정(정길이 6cm 이하),Burin with a blade of 6cm or less,생활용품류,1
+125,가위(날길이 6cm 초과),Scissors with blades longer than 6cm,무기류,261
+126,가위(날길이 6cm 이하),Scissors with blades of 6cm or less,무기류,255
+127,알카라인 배터리(건전지),Dry alkaline battery,전자제품류,433
+128,습식배터리(납축전지),Wet battery,전자제품류,134
+129,여분 리튬이온배터리(100wh 이하),Spare lithium ion battery(not more than 100wh),전자제품류,42
+130,여분 리튬이온배터리(100wh~160wh),Spare lithium ion battery(100wh~160wh),전자제품류,51
+131,보조 리튬이온배터리,Potable lithium ion  battery,전자제품류,482
+133,리튬 폴리머 배터리,Lithium polymer battery,전자제품류,91
+134,전자장비에 장착된 리튬메탈배터리(리튬 함량 2g 이하),Electronic devices containing lithium metal  (not more than 2g lithium per battery),전자제품류,6
+135,의료용 전자장비에 장착된 리튬메탈배터리(리튬함량 8g 이하),Medical electronic devices containing lithium metal(not more than 8g lithium per battery),전자제품류,8
+136,일반용 전자장비에 장착된 리튬메탈배터리(리튬 함량 2g 초과),Electronic devices containing lithium metal (more than 2g lithium per battery),전자제품류,11
+137,여분 리튬메탈배터리(리튬 함량 2g 이하),Spare lithium metal battery(not more than 2g lithium per battery),전자제품류,18
+138,일반용 여분 리튬메탈배터리(리튬 함량 2g 초과),Spare lithium metal battery for general electronic devices(more than 2g lithium per battery),전자제품류,6
+139,의료용 여분 리튬메탈배터리(리튬 함량 2g 초과~8g 이하),Spare lithium metal battery for medical electronic devices(exceeding 2g but not exceeing 8g lithium per battery),전자제품류,2
+140,전자장비에 장착된 리튬이온배터리(100wh 이하),Electronic devices containing lithium ion(not more than 100wh),전자제품류,25
+141,전자장비에 장착된 리튬이온배터리(100wh초과~160wh이하),Electronic devices containing lithium ion(100wh~160wh),전자제품류,14
+142,전자장비에 장착된 리튬이온배터리(160wh 초과),Electronic devices containing lithium ion(more than 160wh),전자제품류,13
+143,포크,Fork,생활용품류,165
+144,젓가락,Copsticks,생활용품류,124
+145,숟가락,Spoon,생활용품류,60
+146,병따개,Bottle opener,생활용품류,29
+147,와인오프너 칼,Wine opener,생활용품류,1
+148,와인용코르크따개,Wine corkscrew,생활용품류,75
+149,감자칼,Potato knife peeler,무기류,130
+150,무채칼,Daicon knife peeler,무기류,25
+151,네일니퍼,Nail nipper,무기류,52
+152,손톱깎이,Nail clipper,무기류,1275
+153,손톱줄,Nail file,무기류,30
+154,족집게,Tweezers,무기류,78
+155,눈썹정리용 칼,Eyebrow knives,무기류,582
+156,손톱정리용 가위,Nail scissors,무기류,170
+157,바늘,Needle,생활용품류,602
+158,재봉바늘,Sewing machine needle,생활용품류,9
+159,옷핀,Safety pin,생활용품류,74
+160,대바늘,Bamboo knitting neddle,생활용품류,88
+161,코바늘,Crochet book,생활용품류,121
+162,바느질용 바늘,Sewinig neddle,생활용품류,39
+163,제도용 콤파스,Drawing compass,생활용품류,7
+164,향수,Perfume,화장품류,4355
+165,헤어스프레이,Hair spray,화장품류,3502
+166,헤어무스,Hair mousse,화장품류,96
+167,헤어젤,Hair gel,화장품류,185
+168,헤어오일,Hair oil,화장품류,72
+169,염색약,Hairdye,화장품류,550
+171,방향제 스프레이,Air freshener spray,화장품류,91
+172,냄새제거제(스프레이 타입),Deodorant spray,화장품류,75
+173,데오드란트(스프레이 타입),Deodorant spray,화장품류,375
+174,면도크림(스프레이 타입),Shaving Cream,화장품류,329
+175,샴푸,Shampoo,화장품류,1836
+176,린스,Hair Conditioner,화장품류,120
+177,샤워젤,Shower gel,화장품류,35
+178,치약,Toothpaste,화장품류,1272
+179,콘텍트렌즈용액,Contact lens solution,의료용품류,175
+180,몸에 뿌리는 벌레 기피제,Insect repellent for skin,화장품류,39
+181,소염제 스프레이,Antiphlogistic agnet spray,의료용품류,51
+182,의료용 소독 알코올,Medical uses for rubbing alcohol,의료용품류,147
+183,내복약,Internal medicine,의료용품류,232
+184,외용연고,Skin ointment,의료용품류,12
+185,생수,Bottled water,음식류,902
+186,물,Water,음식류,31971
+187,과즙음료,Fruit juice,음식류,179
+188,야채주스,Vegetable juice,음식류,9
+189,콜라,Cola,음식류,174
+190,사이다,Cider,음식류,37
+191,커피(액상커피),Coffee(liquid type),음식류,140
+192,홍차(액상 홍차),Black tea(liquid type),음식류,11
+193,유산균음료,Yogurt beverage,음식류,10
+194,소주,Soju,음식류,831
+195,청주,Cheongju,음식류,8
+196,맥주,Beer,음식류,1218
+197,위스키,Whisky,음식류,148
+198,한방술,Asian liquor,음식류,134
+199,탈지유,Skim milk,음식류,1
+200,농축우유,Condensed milk,음식류,9
+201,우유(액상 우유),Liquid Milk,음식류,71
+202,요구르트,Yogurt,음식류,23
+203,아이스크림,Ice cream,음식류,74
+204,빙과류,Frozen desserts,음식류,2
+205,얼음류,Ices,음식류,25
+206,곰탕,Gomguck,음식류,24
+207,설렁탕,Seolleongtang (Ox bone soup),음식류,16
+208,다시마국물,Kelp soup,음식류,34
+209,꿀,Honey,음식류,319
+210,물엿,Starch syrup,음식류,5
+211,시럽,Syrup,음식류,18
+212,액기스,Extract,음식류,18
+213,스프레드류,Spreads,음식류,7
+214,초코크림,Chocolate cream,음식류,0
+215,통조림,Canned food,음식류,351
+216,된장,Soybean paste,음식류,152
+217,고추장,Red pepper paste,음식류,486
+218,쌈장,Ssamjang,음식류,29
+219,도우,Dough,음식류,5
+220,참치 통조림(참치캔),Canned tuna,음식류,299
+221,꽁치 통조림,Canned saury,음식류,5
+222,장조림 통조림,Canned meat with source,음식류,25
+223,깻잎 통조림,Canned sesame leaves,음식류,18
+224,후르츠칵테일 통조림,Canned fruit cocktail,음식류,8
+225,김,Laver,음식류,180
+226,장아찌,Pickled vegetables,음식류,53
+227,오징어젓,Fermented squid,음식류,20
+228,명란젓,Salted pollack roe,음식류,13
+229,창난젓,Changnanjeot,음식류,0
+230,불고기 양념,Bulgogi sauce,음식류,16
+231,매실 엑기스,Japanese apricot extract,음식류,37
+232,홍삼 농축액,Red ginseng extract,음식류,121
+233,물티슈,Wet tissue,화장품류,802
+234,마스크 팩,Mask pack,화장품류,66
+235,액체절임 고기류,Meats for liquid salt,음식류,29
+236,액젓류,Aekjeots,음식류,3
+237,까나리액젓,Kanari aekjeot,음식류,4
+238,멸치액젓,Myeolchi aekjeot,음식류,13
+239,새우액젓,Shrimp aekjeot,음식류,19
+240,참치액젓,Tuna aekjeot,음식류,12
+241,갈치액젓,Hairtail aekjeot,음식류,15
+242,굴액젓,Oyster aekjeot,음식류,2
+243,김치류,Kimchis,음식류,438
+244,배추김치,Baechukimchi,음식류,205
+245,열무김치,Young radish kimchi,음식류,30
+246,갓김치,Leaf mustard kimchi,음식류,48
+247,깍두기,Kkakdugi,음식류,1
+248,파김치,Green onion kimchi,음식류,22
+249,약용크림,Medicated cream,의료용품류,6
+250,연고,Ointment,의료용품류,973
+251,구두약,Shoes liquid polish,기타,48
+252,구두크림,Shoes cream polish,기타,5
+253,보습크림,Moisturizing cream,화장품류,61
+254,클렌징 크림,Cleansing cream,화장품류,11
+255,클렌징 로션,Cleansing lotion,화장품류,11
+256,클렌징 오일,Cleansing oil,화장품류,71
+257,밀크로션,Milk lotion,화장품류,80
+258,스킨로션,Skin lotion,화장품류,670
+259,바디로션,Body lotion,화장품류,296
+260,썬탠로션,Tanning lotion,화장품류,9
+261,화장수,Skin,화장품류,128
+262,액체비누,Liquid soap,화장품류,90
+263,액상파운데이션,Liquid foundation,화장품류,38
+264,식용유,Cooking oil,음식류,262
+265,올리브유,Olive oil,음식류,84
+266,버터,Butter,음식류,47
+267,마가린,Margarine,음식류,4
+268,쇼트닝,Shortening,음식류,0
+269,샤워코롱,Shower cologne,화장품류,10
+270,헤어 트리트먼트,Hair treatment,화장품류,30
+271,폼클렌징,Cleansing foam,화장품류,363
+272,세안폼,Facial foam,화장품류,17
+273,한약,Herbal medicines(liquid),음식류,629
+274,먹물,Chinese ink,기타,62
+279,만년필잉크,Fountain pen ink,기타,6
+280,액체 마스카라,Liquid mascara,화장품류,16
+281,액상 아이라이너,Liquid eyeliner,화장품류,7
+282,립글로스,Lip gloss,화장품류,28
+283,립밤,Lip balm,화장품류,75
+284,루즈,Lipstick,화장품류,8
+285,액상 감기약,Cold liquid medicine,의료용품류,54
+286,액상 위장약,Stomach liquid medicine,의료용품류,6
+287,기침 억제시럽,Cough syrup,의료용품류,1
+288,비강스프레이,Nasal spray,의료용품류,22
+289,해열파스,Patch for fever,의료용품류,13
+290,안약,Eye drops,의료용품류,181
+291,의료용 식염수,Saline for medical use,의료용품류,31
+292,혈액,Blood,의료용품류,12
+293,혈액관련 약제,Medicine of blood,의료용품류,6
+294,특별 식이처방음식,Specific diet prescription food,음식류,20
+295,죽,Porridge,음식류,109
+296,산소통,Oxygen tank,의료용품류,273
+297,의료용 산소통,Medical oxygen cylinder,의료용품류,53
+298,압축산소,Compressed oxygen,의료용품류,13
+299,산소 실린더,Oxyzen cylinder,의료용품류,94
+300,공기 실린더,Air cylinder,의료용품류,113
+301,산소 스프레이,Oxyzen spray,의료용품류,108
+302,야구 배트,Baseball bats,스포츠용품류,81
+303,소프트볼 배트,Softball bats,스포츠용품류,0
+304,크리켓 배트,Cricket bats,스포츠용품류,0
+305,카약 노,Kayak paddles,스포츠용품류,0
+306,카누 노,Canoe paddles,스포츠용품류,0
+307,보트 노,Boat paddles,스포츠용품류,6
+308,하키 스틱,Hockey Sticks,스포츠용품류,4
+309,라코르스 스틱,Lacrosse Sticks,스포츠용품류,6
+310,골프채,Golf clubs,스포츠용품류,840
+311,당구큐,Billiard cues,스포츠용품류,43
+312,목검류,Types of bokken,스포츠용품류,5
+313,볼링공,Bowling ball,스포츠용품류,75
+314,아령(덤벨),Dumbbell,스포츠용품류,29
+315,활,Bow,스포츠용품류,122
+316,화살,Arrow,스포츠용품류,88
+317,양궁,Archery,스포츠용품류,10
+318,석궁,Crossbow,스포츠용품류,174
+319,국궁,A bow of reverence,스포츠용품류,9
+320,공,Ball,스포츠용품류,204
+321,축구공,"Scoccer ball, Football",스포츠용품류,210
+322,농구공,Basketball,스포츠용품류,45
+323,배구공,Volleyball,스포츠용품류,14
+324,스포츠공,Sport ball,스포츠용품류,5
+325,야구공,Baseball ball,스포츠용품류,123
+326,골프공,Golf ball,스포츠용품류,259
+327,"발연 시구공, 발연 골프공",Smoke gold ball,스포츠용품류,13
+328,풍선,Ballon,스포츠용품류,242
+329,등산용 스틱(등산스틱),Alpenstock,스포츠용품류,806
+330,빙벽 등반용 스틱,Ice climbing stick,스포츠용품류,2
+331,텐트못 (6cm 초과),Tent peg (longer than 6cm),스포츠용품류,56
+332,텐트폴,Tent poles,스포츠용품류,50
+333,등산용 아이젠,Climbing irons,스포츠용품류,184
+334,테니스 라켓,Tennis racket,스포츠용품류,130
+335,베드민턴 라켓,Badminton racket,스포츠용품류,35
+336,스퀴시 라켓,Squash racket,스포츠용품류,3
+337,탁구 라켓,Table-tennis racket,스포츠용품류,4
+338,망치,Hammer,생활용품류,292
+339,빙상용 스케이트,Ice skates,스포츠용품류,29
+340,스케이트 날,Skating blade,스포츠용품류,4
+341,인라인 스케이트,Inline skates,스포츠용품류,1
+342,킥보드,Kickboard,스포츠용품류,105
+343,아동용 킥보드(씽씽카),Micro kickboard,스포츠용품류,74
+344,전동 킥보드,Electric kickboard,스포츠용품류,68
+345,호버보드,Hoverboard,스포츠용품류,39
+346,스케이트보드,Skateboard,스포츠용품류,117
+347,주사바늘,Injection syringe,의료용품류,351
+348,한방용 침류,Acupuncture needle,의료용품류,7
+349,수지침,Sujichim,의료용품류,22
+350,지팡이,Walking stick,의료용품류,133
+351,목발,Crutch,의료용품류,68
+352,석탄,Coal,인화성류,8
+354,바베큐 숯,Charcoal,인화성류,146
+355,번개탄,Lgnition coal,인화성류,14
+357,안전성냥,Safety match,인화성류,55
+358,성냥,Match,인화성류,374
+360,마찰성냥(딱성냥),Strike anywhere match,인화성류,35
+361,대형 곽성냥,Large packet of matches,인화성류,8
+362,LP 가스,LPG,인화성류,23
+363,부탄가스,Butane gas,인화성류,320
+364,프로판가스,Propane gas,인화성류,2
+365,석유,Petrol,인화성류,215
+366,휘발유,Gasoline,인화성류,54
+367,등유,Kerosene oil,인화성류,10
+368,경유,Diesel oil,인화성류,8
+369,디젤,Diesel oil,인화성류,9
+370,석유버너,Oil burner with fuel,인화성류,22
+371,에탄올,Ethanol,인화성류,492
+372,스프레이페인트,Spray pqaint,인화성류,14
+373,수성페인트,Water paint,인화성류,93
+374,유성페인트,Oil paint,인화성류,55
+375,인화성페인트,Flammable paint,인화성류,121
+376,인화성 광택도료,Flammable luminous paint,인화성류,88
+377,페인트 신나,Paint thinner,인화성류,9
+378,테러빈유,Turpentine,인화성류,2
+379,에프킬라,Pesticide spray,인화성류,184
+380,살충제,Pesticide,기타,250
+381,인화성 살충제,Flammable Pesticide,인화성류,257
+382,인화성 다리미풀 스프레이,Flammable starch spray,인화성류,401
+383,수은,Mercury,의료용품류,74
+384,기상용 수은기압계,Weather mercury-barometer,의료용품류,3
+385,기상용 수은온도계,Weather mercury-thermometer,의료용품류,9
+386,의료용 수은체온계,Medical mercury-thermometer,의료용품류,11
+387,메틸알콜온도계,Methyl alcohol thermometer,의료용품류,7
+388,알콜음료 (70도 이상),Alcoholic beverages(exceeding 70% alcohol by volme),음식류,7
+389,알콜음료 (24도 이상 ~ 70도 미만),Alcoholic beverages (more than 24% and less than 70% alcohol by volme),음식류,621
+390,알콜음료 (24도 미만),Alcoholic beverages (less than 24% alcohol by volume),음식류,46
+391,독극물,Poisons,기타,155
+392,쥐약,Raticide,기타,4
+393,제초제,Herbcide,기타,20
+394,농약,Agricultural pesticide,기타,168
+395,방사능 물질,Radioactive material,기타,11
+396,염소,Chlorine,기타,20
+397,락스,Crorox,기타,264
+398,표백제,Bleaching power,기타,248
+399,파마약(퍼머약),Wave perm agents,기타,105
+400,하수구 청소제제,Drain cleaner,기타,11
+401,소화기,Fire extinguisher,기타,233
+402,드라이아이스,Dry ice,기타,610
+403,메니큐어,Nail polish,화장품류,59
+404,메니큐어리무버,Nail polish remover,화장품류,20
+405,에탄올 손소독제,Ethanol Hand Sanitizer,기타,418
+406,손세정제,Handwash,기타,191
+407,실리콘,Sillicon,인화성류,951
+410,가스 고데기(탄화수소가스),Hair curlers containing hydrocarbon gas,인화성류,29
+411,가스 고데기 여분 리필,Gas refill for hair curler,인화성류,14
+412,전기고데기,Electric hair curling iron,인화성류,983
+414,빙초산,Glacial acetic acid,기타,18
+415,틴트,Tint,화장품류,153
+416,이유식,Baby food,음식류,147
+417,알약 형태의 의약품,Medical phills,의료용품류,220
+418,알약 형태의 비타민,Vitamin pills,의료용품류,158
+419,헤어왁스,Hair wax,화장품류,180
+420,화장품,Cosmetics,화장품류,102502
+421,선크림(썬크림),Sun cream,화장품류,231
+422,구강세정제,Mouthwash,의료용품류,16
+423,셀카봉(셀피봉),Selfie stick,생활용품류,198
+424,갤럭시노트7,Galaxy Note7,전자제품류,31
+425,술,Liquor,음식류,4798
+426,가그린(구강세정제),Garglin(Mouthwash),의료용품류,101
+427,리스테린(구강세정제),Listerine(Mouthwash),의료용품류,10
+428,김밥,Gimbap,음식류,262
+429,햇반,Hetbahn(Instant rice),음식류,198
+430,라면,Ramen,음식류,410
+431,커피(분말커피),Coffee(powder type),음식류,88
+432,컵라면,Cup ramen(Cup noddles),음식류,166
+433,케이블충전기(보조배터리 제외),Charger cable(except power banks),전자제품류,1239
+434,막걸리,Makgeolli,음식류,484
+435,와인,Wine,음식류,2090
+436,헥사메딘 가글액,Hexamedine gargle,의료용품류,17
+437,파이어스틱(Fire Starter Stick),Fire Starter Stick,인화성류,81
+438,자전거용 에어백 헬멧,Airbag bike helmet,스포츠용품류,12
+440,샌드위치,Sandwich,음식류,73
+441,햄버거,Hamburger,음식류,45
+442,고체 초콜릿,Solid chocolate,음식류,50
+443,고체 사탕,Solid candy,음식류,12
+444,떡,Rice cake,음식류,335
+445,간장,Soy sauce,음식류,191
+446,액상 초콜릿,Liquid chocolate,음식류,2
+447,곤약젤리,Konjac jelly,음식류,33
+448,불고기,Bulgogi,음식류,70
+449,과일,Fruit,음식류,1236
+450,귤,Mandarin,음식류,874
+451,망고,Mango,음식류,91
+452,바나나,Banana,음식류,94
+453,토마토,Tomato,음식류,108
+454,자두,Plum,음식류,15
+455,한라봉,Hallabong,음식류,105
+456,딸기,Strawberry,음식류,86
+457,복숭아,Peach,음식류,85
+458,육포,Beef jerky,음식류,150
+459,소시지,Sausage,음식류,64
+460,삶은 계란,Boiled egg,음식류,32
+461,고체 치즈,Cheese(Solid),음식류,44
+462,사과,Apple,음식류,294
+464,크림 치즈,Cheese(Creamy),음식류,7
+465,수중 고휘도 랜턴,Underwater Lantern (high luminance type),전자제품류,193
+466,산악용 망치,Climbing hammer,스포츠용품류,8
+467,투석기,Catapult,무기류,3
+468,송곳,"Awl, Gimlets",생활용품류,136
+469,믹스기 칼날,Mixer blade,무기류,22
+470,애플 맥북프로,Apple MacBook Pro,전자제품류,80
+471,전기라이터(플라스마형),Plazma Lighters,인화성류,22
+472,쿠보탄,Kubotan,무기류,149
+473,당구공,Billiard ball,스포츠용품류,78
+474,장난감 야구 배트,Toy baseball bat,스포츠용품류,11
+475,플라스틱 장난감 야구 배트,Toy kids plastic baseball bat,스포츠용품류,11
+476,텐트못(6cm 이하),Tent peg (6cm or less),스포츠용품류,37
+477,탄창,Magazine,무기류,237
+478,토치,torch,공구류,391
+479,보조배터리,battery,전자제품류,148662
+480,노트북,Lap Top,전자제품류,36616
+481,즉석발열조리식품,Instant Cooking Food(Hot pack),,401
+483,돌(수석),Viewing Stone,기타,55
+484,탄피,bullet casings,무기류,368
+485,탄두,warheads,무기류,218
+486,드릴날 (총길이 6cm 이하),Drill bit,공구류,80
+487,골프채 헤드,golf club heads,스포츠용품류,66
+488,헤드 없는 골프채,golf club shaft,스포츠용품류,42
+489,전기파리채,electric flyswatter,전자제품류,530
+490,손난로 (가연성 연료사용),handwarmers(fuel type),인화성류,50
+491,전기모기채,Electric mosquito killer,전자제품류,95
+492,모형실탄(악세사리류),mock ammunition(for accessory),기타,21
+493,히팅건(열풍건),Heating Guns,공구류,24
+494,그라인더날(절단용),Grinder blades (for cutting),공구류,26
+495,그라인더날(마모용),Grinder blades (for wear and tear),공구류,22
+496,파채칼,slicers,생활용품류,69
+497,장난감 총(스폰지 총알),Toy guns(Sponge bullets),기타,32
+498,유성물감,oil colors,인화성류,208
+499,최루가스,tear gas,무기류,24
+500,화학물질을 담은 용기(분사기 등),containers with chemicals(spray gun),기타,5
+501,산성스프레이,Acid spray,무기류,12
+502,드릴부품,Drill parts,공구류,52
+503,골프 스윙 연습기,Golf swing trainers,스포츠용품류,10
+504,플라스틱 폭발물,Plastic explosives,무기류,0
+505,전정가위,Pruner,공구류,42
+506,네일드릴,Nail Drill,기타,28
+507,견과류 망치,nutcracker,기타,6
+508,모종삽,trowel,기타,62
+509,인화성가스,flammable gas,인화성류,15
+510,인화성액체,flammable liquid,인화성류,7
+511,야경봉,Night stick,기타,11
+512,무술 장비,Martial arts equipment,무기류,2
+513,커터칼날,Cutter blade,기타,14
+514,도화선,Fuse,기타,11
+515,기타 군사 폭발 용품,Other military explosive items,기타,0
+516,"나노킬, 비오킬","NANOKILL, BIOKILL",기타,0
+517,텍티컬 펜,Tactical pen,무기류,1
+518,삽,shovel,기타,111
+519,"나무막대(청소도구, 밀대)",wooden stick,기타,0
+520,"엔진오일, 윤활유",Engine Oil,인화성류,3
+521,질산암모늄 비료,ammonium nitrate fertilizer,기타,1
+522,CO2 카트리지,CO2 cartridge,기타,2
+523,휴대용(차량용)소화기,partable fire extinguisher,기타,0

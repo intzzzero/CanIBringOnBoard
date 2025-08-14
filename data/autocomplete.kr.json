@@ -1,0 +1,4445 @@
+{
+  "country": "KR",
+  "terms": [
+    {
+      "term": "보조배터리",
+      "freq": 148662
+    },
+    {
+      "term": "화장품",
+      "freq": 102502
+    },
+    {
+      "term": "노트북",
+      "freq": 36616
+    },
+    {
+      "term": "물",
+      "freq": 31971
+    },
+    {
+      "term": "battery",
+      "freq": 29732
+    },
+    {
+      "term": "Cosmetics",
+      "freq": 20500
+    },
+    {
+      "term": "전자담배",
+      "freq": 18569
+    },
+    {
+      "term": "칼",
+      "freq": 14762
+    },
+    {
+      "term": "Lap Top",
+      "freq": 7323
+    },
+    {
+      "term": "Water",
+      "freq": 6394
+    },
+    {
+      "term": "술",
+      "freq": 4798
+    },
+    {
+      "term": "향수",
+      "freq": 4355
+    },
+    {
+      "term": "Electronic cigarette",
+      "freq": 3713
+    },
+    {
+      "term": "헤어스프레이",
+      "freq": 3502
+    },
+    {
+      "term": "Knife",
+      "freq": 2952
+    },
+    {
+      "term": "와인",
+      "freq": 2090
+    },
+    {
+      "term": "샴푸",
+      "freq": 1836
+    },
+    {
+      "term": "손톱깎이",
+      "freq": 1275
+    },
+    {
+      "term": "치약",
+      "freq": 1272
+    },
+    {
+      "term": "케이블충전기(보조배터리 제외)",
+      "freq": 1239
+    },
+    {
+      "term": "과일",
+      "freq": 1236
+    },
+    {
+      "term": "맥주",
+      "freq": 1218
+    },
+    {
+      "term": "전기면도기",
+      "freq": 1061
+    },
+    {
+      "term": "전기고데기",
+      "freq": 983
+    },
+    {
+      "term": "연고",
+      "freq": 973
+    },
+    {
+      "term": "Liquor",
+      "freq": 959
+    },
+    {
+      "term": "실리콘",
+      "freq": 951
+    },
+    {
+      "term": "생수",
+      "freq": 902
+    },
+    {
+      "term": "귤",
+      "freq": 874
+    },
+    {
+      "term": "Perfume",
+      "freq": 871
+    },
+    {
+      "term": "골프채",
+      "freq": 840
+    },
+    {
+      "term": "소주",
+      "freq": 831
+    },
+    {
+      "term": "등산용 스틱(등산스틱)",
+      "freq": 806
+    },
+    {
+      "term": "물티슈",
+      "freq": 802
+    },
+    {
+      "term": "공구",
+      "freq": 718
+    },
+    {
+      "term": "Hair spray",
+      "freq": 700
+    },
+    {
+      "term": "전자충격기",
+      "freq": 674
+    },
+    {
+      "term": "스킨로션",
+      "freq": 670
+    },
+    {
+      "term": "한약",
+      "freq": 629
+    },
+    {
+      "term": "알콜음료 (24도 이상 ~ 70도 미만)",
+      "freq": 621
+    },
+    {
+      "term": "드라이아이스",
+      "freq": 610
+    },
+    {
+      "term": "바늘",
+      "freq": 602
+    },
+    {
+      "term": "전동드릴",
+      "freq": 597
+    },
+    {
+      "term": "라이터(라이타)",
+      "freq": 593
+    },
+    {
+      "term": "눈썹정리용 칼",
+      "freq": 582
+    },
+    {
+      "term": "염색약",
+      "freq": 550
+    },
+    {
+      "term": "맥가이버칼",
+      "freq": 533
+    },
+    {
+      "term": "전기파리채",
+      "freq": 530
+    },
+    {
+      "term": "과도",
+      "freq": 526
+    },
+    {
+      "term": "에탄올",
+      "freq": 492
+    },
+    {
+      "term": "고추장",
+      "freq": 486
+    },
+    {
+      "term": "막걸리",
+      "freq": 484
+    },
+    {
+      "term": "보조 리튬이온배터리",
+      "freq": 482
+    },
+    {
+      "term": "김치류",
+      "freq": 438
+    },
+    {
+      "term": "알카라인 배터리(건전지)",
+      "freq": 433
+    },
+    {
+      "term": "작살총",
+      "freq": 426
+    },
+    {
+      "term": "에탄올 손소독제",
+      "freq": 418
+    },
+    {
+      "term": "Wine",
+      "freq": 418
+    },
+    {
+      "term": "라면",
+      "freq": 410
+    },
+    {
+      "term": "인화성 다리미풀 스프레이",
+      "freq": 401
+    },
+    {
+      "term": "즉석발열조리식품",
+      "freq": 401
+    },
+    {
+      "term": "토치",
+      "freq": 391
+    },
+    {
+      "term": "데오드란트(스프레이 타입)",
+      "freq": 375
+    },
+    {
+      "term": "성냥",
+      "freq": 374
+    },
+    {
+      "term": "탄피",
+      "freq": 368
+    },
+    {
+      "term": "Shampoo",
+      "freq": 367
+    },
+    {
+      "term": "폼클렌징",
+      "freq": 363
+    },
+    {
+      "term": "면도칼",
+      "freq": 360
+    },
+    {
+      "term": "주사바늘",
+      "freq": 351
+    },
+    {
+      "term": "통조림",
+      "freq": 351
+    },
+    {
+      "term": "떡",
+      "freq": 335
+    },
+    {
+      "term": "면도크림(스프레이 타입)",
+      "freq": 329
+    },
+    {
+      "term": "일회용 면도기",
+      "freq": 326
+    },
+    {
+      "term": "부탄가스",
+      "freq": 320
+    },
+    {
+      "term": "꿀",
+      "freq": 319
+    },
+    {
+      "term": "수갑",
+      "freq": 314
+    },
+    {
+      "term": "참치 통조림(참치캔)",
+      "freq": 299
+    },
+    {
+      "term": "바디로션",
+      "freq": 296
+    },
+    {
+      "term": "사과",
+      "freq": 294
+    },
+    {
+      "term": "망치",
+      "freq": 292
+    },
+    {
+      "term": "일회용 라이터",
+      "freq": 285
+    },
+    {
+      "term": "조준경",
+      "freq": 281
+    },
+    {
+      "term": "산소통",
+      "freq": 273
+    },
+    {
+      "term": "호신용 스프레이",
+      "freq": 269
+    },
+    {
+      "term": "락스",
+      "freq": 264
+    },
+    {
+      "term": "권총",
+      "freq": 263
+    },
+    {
+      "term": "김밥",
+      "freq": 262
+    },
+    {
+      "term": "식용유",
+      "freq": 262
+    },
+    {
+      "term": "가위(날길이 6cm 초과)",
+      "freq": 261
+    },
+    {
+      "term": "골프공",
+      "freq": 259
+    },
+    {
+      "term": "인화성 살충제",
+      "freq": 257
+    },
+    {
+      "term": "가위(날길이 6cm 이하)",
+      "freq": 255
+    },
+    {
+      "term": "Nail clipper",
+      "freq": 255
+    },
+    {
+      "term": "Toothpaste",
+      "freq": 254
+    },
+    {
+      "term": "살충제",
+      "freq": 250
+    },
+    {
+      "term": "표백제",
+      "freq": 248
+    },
+    {
+      "term": "실탄",
+      "freq": 247
+    },
+    {
+      "term": "Charger cable(except power banks)",
+      "freq": 247
+    },
+    {
+      "term": "Fruit",
+      "freq": 247
+    },
+    {
+      "term": "Beer",
+      "freq": 243
+    },
+    {
+      "term": "풍선",
+      "freq": 242
+    },
+    {
+      "term": "탄창",
+      "freq": 237
+    },
+    {
+      "term": "소화기",
+      "freq": 233
+    },
+    {
+      "term": "내복약",
+      "freq": 232
+    },
+    {
+      "term": "선크림(썬크림)",
+      "freq": 231
+    },
+    {
+      "term": "알약 형태의 의약품",
+      "freq": 220
+    },
+    {
+      "term": "탄두",
+      "freq": 218
+    },
+    {
+      "term": "폭죽",
+      "freq": 217
+    },
+    {
+      "term": "석유",
+      "freq": 215
+    },
+    {
+      "term": "Electric razor",
+      "freq": 212
+    },
+    {
+      "term": "축구공",
+      "freq": 210
+    },
+    {
+      "term": "유성물감",
+      "freq": 208
+    },
+    {
+      "term": "장난감 총",
+      "freq": 208
+    },
+    {
+      "term": "배추김치",
+      "freq": 205
+    },
+    {
+      "term": "공",
+      "freq": 204
+    },
+    {
+      "term": "복제 총기류",
+      "freq": 201
+    },
+    {
+      "term": "셀카봉(셀피봉)",
+      "freq": 198
+    },
+    {
+      "term": "햇반",
+      "freq": 198
+    },
+    {
+      "term": "Electric hair curling iron",
+      "freq": 196
+    },
+    {
+      "term": "Ointment",
+      "freq": 194
+    },
+    {
+      "term": "수중 고휘도 랜턴",
+      "freq": 193
+    },
+    {
+      "term": "간장",
+      "freq": 191
+    },
+    {
+      "term": "손세정제",
+      "freq": 191
+    },
+    {
+      "term": "Sillicon",
+      "freq": 190
+    },
+    {
+      "term": "헤어젤",
+      "freq": 185
+    },
+    {
+      "term": "등산용 아이젠",
+      "freq": 184
+    },
+    {
+      "term": "에프킬라",
+      "freq": 184
+    },
+    {
+      "term": "부엌칼",
+      "freq": 182
+    },
+    {
+      "term": "안약",
+      "freq": 181
+    },
+    {
+      "term": "김",
+      "freq": 180
+    },
+    {
+      "term": "헤어왁스",
+      "freq": 180
+    },
+    {
+      "term": "Bottled water",
+      "freq": 180
+    },
+    {
+      "term": "과즙음료",
+      "freq": 179
+    },
+    {
+      "term": "콘텍트렌즈용액",
+      "freq": 175
+    },
+    {
+      "term": "석궁",
+      "freq": 174
+    },
+    {
+      "term": "콜라",
+      "freq": 174
+    },
+    {
+      "term": "Mandarin",
+      "freq": 174
+    },
+    {
+      "term": "손톱정리용 가위",
+      "freq": 170
+    },
+    {
+      "term": "농약",
+      "freq": 168
+    },
+    {
+      "term": "Golf clubs",
+      "freq": 168
+    },
+    {
+      "term": "컵라면",
+      "freq": 166
+    },
+    {
+      "term": "Soju",
+      "freq": 166
+    },
+    {
+      "term": "스크루드라이버(날길이 6cm 이하)",
+      "freq": 165
+    },
+    {
+      "term": "포크",
+      "freq": 165
+    },
+    {
+      "term": "뇌관",
+      "freq": 164
+    },
+    {
+      "term": "Alpenstock",
+      "freq": 161
+    },
+    {
+      "term": "Wet tissue",
+      "freq": 160
+    },
+    {
+      "term": "총알",
+      "freq": 159
+    },
+    {
+      "term": "알약 형태의 비타민",
+      "freq": 158
+    },
+    {
+      "term": "독극물",
+      "freq": 155
+    },
+    {
+      "term": "틴트",
+      "freq": 153
+    },
+    {
+      "term": "된장",
+      "freq": 152
+    },
+    {
+      "term": "육포",
+      "freq": 150
+    },
+    {
+      "term": "쿠보탄",
+      "freq": 149
+    },
+    {
+      "term": "위스키",
+      "freq": 148
+    },
+    {
+      "term": "의료용 소독 알코올",
+      "freq": 147
+    },
+    {
+      "term": "이유식",
+      "freq": 147
+    },
+    {
+      "term": "바베큐 숯",
+      "freq": 146
+    },
+    {
+      "term": "Tool",
+      "freq": 143
+    },
+    {
+      "term": "커피(액상커피)",
+      "freq": 140
+    },
+    {
+      "term": "지포 라이터",
+      "freq": 138
+    },
+    {
+      "term": "송곳",
+      "freq": 136
+    },
+    {
+      "term": "습식배터리(납축전지)",
+      "freq": 134
+    },
+    {
+      "term": "한방술",
+      "freq": 134
+    },
+    {
+      "term": "Skin lotion",
+      "freq": 134
+    },
+    {
+      "term": "Stun gun",
+      "freq": 134
+    },
+    {
+      "term": "지팡이",
+      "freq": 133
+    },
+    {
+      "term": "감자칼",
+      "freq": 130
+    },
+    {
+      "term": "테니스 라켓",
+      "freq": 130
+    },
+    {
+      "term": "박스커터칼",
+      "freq": 129
+    },
+    {
+      "term": "화장수",
+      "freq": 128
+    },
+    {
+      "term": "Herbal medicines(liquid)",
+      "freq": 125
+    },
+    {
+      "term": "젓가락",
+      "freq": 124
+    },
+    {
+      "term": "Alcoholic beverages (more than 24% and less than 70% alcohol by volme)",
+      "freq": 124
+    },
+    {
+      "term": "야구공",
+      "freq": 123
+    },
+    {
+      "term": "안전면도기",
+      "freq": 122
+    },
+    {
+      "term": "활",
+      "freq": 122
+    },
+    {
+      "term": "Dry ice",
+      "freq": 122
+    },
+    {
+      "term": "인화성페인트",
+      "freq": 121
+    },
+    {
+      "term": "코바늘",
+      "freq": 121
+    },
+    {
+      "term": "홍삼 농축액",
+      "freq": 121
+    },
+    {
+      "term": "린스",
+      "freq": 120
+    },
+    {
+      "term": "Needle",
+      "freq": 120
+    },
+    {
+      "term": "Electric drill",
+      "freq": 119
+    },
+    {
+      "term": "Lighter",
+      "freq": 118
+    },
+    {
+      "term": "스케이트보드",
+      "freq": 117
+    },
+    {
+      "term": "Eyebrow knives",
+      "freq": 116
+    },
+    {
+      "term": "공기 실린더",
+      "freq": 113
+    },
+    {
+      "term": "면도기 칼 카트리지",
+      "freq": 111
+    },
+    {
+      "term": "삽",
+      "freq": 111
+    },
+    {
+      "term": "새총",
+      "freq": 111
+    },
+    {
+      "term": "Hairdye",
+      "freq": 110
+    },
+    {
+      "term": "드릴류",
+      "freq": 109
+    },
+    {
+      "term": "죽",
+      "freq": 109
+    },
+    {
+      "term": "지뢰",
+      "freq": 109
+    },
+    {
+      "term": "라이터 액체 연료",
+      "freq": 108
+    },
+    {
+      "term": "산소 스프레이",
+      "freq": 108
+    },
+    {
+      "term": "토마토",
+      "freq": 108
+    },
+    {
+      "term": "도끼",
+      "freq": 107
+    },
+    {
+      "term": "수동식금속면도기",
+      "freq": 106
+    },
+    {
+      "term": "electric flyswatter",
+      "freq": 106
+    },
+    {
+      "term": "Swiss army knife",
+      "freq": 106
+    },
+    {
+      "term": "킥보드",
+      "freq": 105
+    },
+    {
+      "term": "파마약(퍼머약)",
+      "freq": 105
+    },
+    {
+      "term": "한라봉",
+      "freq": 105
+    },
+    {
+      "term": "Fruit knife",
+      "freq": 105
+    },
+    {
+      "term": "외과용 메스",
+      "freq": 102
+    },
+    {
+      "term": "가그린(구강세정제)",
+      "freq": 101
+    },
+    {
+      "term": "테이저건",
+      "freq": 98
+    },
+    {
+      "term": "Ethanol",
+      "freq": 98
+    },
+    {
+      "term": "Red pepper paste",
+      "freq": 97
+    },
+    {
+      "term": "경찰봉",
+      "freq": 96
+    },
+    {
+      "term": "헤어무스",
+      "freq": 96
+    },
+    {
+      "term": "Makgeolli",
+      "freq": 96
+    },
+    {
+      "term": "Potable lithium ion  battery",
+      "freq": 96
+    },
+    {
+      "term": "전기모기채",
+      "freq": 95
+    },
+    {
+      "term": "바나나",
+      "freq": 94
+    },
+    {
+      "term": "산소 실린더",
+      "freq": 94
+    },
+    {
+      "term": "수성페인트",
+      "freq": 93
+    },
+    {
+      "term": "리튬 폴리머 배터리",
+      "freq": 91
+    },
+    {
+      "term": "망고",
+      "freq": 91
+    },
+    {
+      "term": "방향제 스프레이",
+      "freq": 91
+    },
+    {
+      "term": "액체비누",
+      "freq": 90
+    },
+    {
+      "term": "쌍절곤",
+      "freq": 89
+    },
+    {
+      "term": "대바늘",
+      "freq": 88
+    },
+    {
+      "term": "인화성 광택도료",
+      "freq": 88
+    },
+    {
+      "term": "커피(분말커피)",
+      "freq": 88
+    },
+    {
+      "term": "화살",
+      "freq": 88
+    },
+    {
+      "term": "Kimchis",
+      "freq": 87
+    },
+    {
+      "term": "딸기",
+      "freq": 86
+    },
+    {
+      "term": "Dry alkaline battery",
+      "freq": 86
+    },
+    {
+      "term": "복숭아",
+      "freq": 85
+    },
+    {
+      "term": "Speargun",
+      "freq": 85
+    },
+    {
+      "term": "올리브유",
+      "freq": 84
+    },
+    {
+      "term": "작살",
+      "freq": 83
+    },
+    {
+      "term": "Ethanol Hand Sanitizer",
+      "freq": 83
+    },
+    {
+      "term": "Ramen",
+      "freq": 82
+    },
+    {
+      "term": "라이터 가스 연료",
+      "freq": 81
+    },
+    {
+      "term": "야구 배트",
+      "freq": 81
+    },
+    {
+      "term": "파이어스틱(Fire Starter Stick)",
+      "freq": 81
+    },
+    {
+      "term": "드릴날 (총길이 6cm 이하)",
+      "freq": 80
+    },
+    {
+      "term": "밀크로션",
+      "freq": 80
+    },
+    {
+      "term": "애플 맥북프로",
+      "freq": 80
+    },
+    {
+      "term": "Flammable starch spray",
+      "freq": 80
+    },
+    {
+      "term": "Instant Cooking Food(Hot pack)",
+      "freq": 80
+    },
+    {
+      "term": "당구공",
+      "freq": 78
+    },
+    {
+      "term": "족집게",
+      "freq": 78
+    },
+    {
+      "term": "torch",
+      "freq": 78
+    },
+    {
+      "term": "표창",
+      "freq": 76
+    },
+    {
+      "term": "냄새제거제(스프레이 타입)",
+      "freq": 75
+    },
+    {
+      "term": "립밤",
+      "freq": 75
+    },
+    {
+      "term": "볼링공",
+      "freq": 75
+    },
+    {
+      "term": "스패너(총길이 10cm 초과)",
+      "freq": 75
+    },
+    {
+      "term": "와인용코르크따개",
+      "freq": 75
+    },
+    {
+      "term": "Deodorant spray",
+      "freq": 75
+    },
+    {
+      "term": "수은",
+      "freq": 74
+    },
+    {
+      "term": "아동용 킥보드(씽씽카)",
+      "freq": 74
+    },
+    {
+      "term": "아이스크림",
+      "freq": 74
+    },
+    {
+      "term": "옷핀",
+      "freq": 74
+    },
+    {
+      "term": "Match",
+      "freq": 74
+    },
+    {
+      "term": "샌드위치",
+      "freq": 73
+    },
+    {
+      "term": "bullet casings",
+      "freq": 73
+    },
+    {
+      "term": "헤어오일",
+      "freq": 72
+    },
+    {
+      "term": "Cleansing foam",
+      "freq": 72
+    },
+    {
+      "term": "Razor blade",
+      "freq": 72
+    },
+    {
+      "term": "우유(액상 우유)",
+      "freq": 71
+    },
+    {
+      "term": "클렌징 오일",
+      "freq": 71
+    },
+    {
+      "term": "불고기",
+      "freq": 70
+    },
+    {
+      "term": "Canned food",
+      "freq": 70
+    },
+    {
+      "term": "Injection syringe",
+      "freq": 70
+    },
+    {
+      "term": "파채칼",
+      "freq": 69
+    },
+    {
+      "term": "목발",
+      "freq": 68
+    },
+    {
+      "term": "전동 킥보드",
+      "freq": 68
+    },
+    {
+      "term": "Rice cake",
+      "freq": 67
+    },
+    {
+      "term": "골프채 헤드",
+      "freq": 66
+    },
+    {
+      "term": "마스크 팩",
+      "freq": 66
+    },
+    {
+      "term": "접이식 칼",
+      "freq": 66
+    },
+    {
+      "term": "Disposable razor",
+      "freq": 65
+    },
+    {
+      "term": "Shaving Cream",
+      "freq": 65
+    },
+    {
+      "term": "드릴날 (총길이 6cm 이상)",
+      "freq": 64
+    },
+    {
+      "term": "소시지",
+      "freq": 64
+    },
+    {
+      "term": "Butane gas",
+      "freq": 64
+    },
+    {
+      "term": "무술용 검",
+      "freq": 63
+    },
+    {
+      "term": "복제 폭발물",
+      "freq": 63
+    },
+    {
+      "term": "Honey",
+      "freq": 63
+    },
+    {
+      "term": "먹물",
+      "freq": 62
+    },
+    {
+      "term": "모종삽",
+      "freq": 62
+    },
+    {
+      "term": "Handcuffs for criminals",
+      "freq": 62
+    },
+    {
+      "term": "보습크림",
+      "freq": 61
+    },
+    {
+      "term": "화약",
+      "freq": 61
+    },
+    {
+      "term": "숟가락",
+      "freq": 60
+    },
+    {
+      "term": "메니큐어",
+      "freq": 59
+    },
+    {
+      "term": "연막탄",
+      "freq": 59
+    },
+    {
+      "term": "Body lotion",
+      "freq": 59
+    },
+    {
+      "term": "Canned tuna",
+      "freq": 59
+    },
+    {
+      "term": "Apple",
+      "freq": 58
+    },
+    {
+      "term": "Hammer",
+      "freq": 58
+    },
+    {
+      "term": "곤봉",
+      "freq": 57
+    },
+    {
+      "term": "Disposable Lighter",
+      "freq": 57
+    },
+    {
+      "term": "텐트못 (6cm 초과)",
+      "freq": 56
+    },
+    {
+      "term": "Telescopic sighting devices",
+      "freq": 56
+    },
+    {
+      "term": "돌(수석)",
+      "freq": 55
+    },
+    {
+      "term": "안전성냥",
+      "freq": 55
+    },
+    {
+      "term": "유성페인트",
+      "freq": 55
+    },
+    {
+      "term": "수류탄",
+      "freq": 54
+    },
+    {
+      "term": "액상 감기약",
+      "freq": 54
+    },
+    {
+      "term": "휘발유",
+      "freq": 54
+    },
+    {
+      "term": "Oxygen tank",
+      "freq": 54
+    },
+    {
+      "term": "기폭장치류",
+      "freq": 53
+    },
+    {
+      "term": "의료용 산소통",
+      "freq": 53
+    },
+    {
+      "term": "장아찌",
+      "freq": 53
+    },
+    {
+      "term": "Self-defense spray",
+      "freq": 53
+    },
+    {
+      "term": "네일니퍼",
+      "freq": 52
+    },
+    {
+      "term": "드릴부품",
+      "freq": 52
+    },
+    {
+      "term": "Cooking oil",
+      "freq": 52
+    },
+    {
+      "term": "Crorox",
+      "freq": 52
+    },
+    {
+      "term": "Gimbap",
+      "freq": 52
+    },
+    {
+      "term": "Gun",
+      "freq": 52
+    },
+    {
+      "term": "Scissors with blades longer than 6cm",
+      "freq": 52
+    },
+    {
+      "term": "소염제 스프레이",
+      "freq": 51
+    },
+    {
+      "term": "스크루드라이버(날길이 6cm 초과)",
+      "freq": 51
+    },
+    {
+      "term": "여분 리튬이온배터리(100wh~160wh)",
+      "freq": 51
+    },
+    {
+      "term": "Flammable Pesticide",
+      "freq": 51
+    },
+    {
+      "term": "Golf ball",
+      "freq": 51
+    },
+    {
+      "term": "Scissors with blades of 6cm or less",
+      "freq": 51
+    },
+    {
+      "term": "고체 초콜릿",
+      "freq": 50
+    },
+    {
+      "term": "손난로 (가연성 연료사용)",
+      "freq": 50
+    },
+    {
+      "term": "텐트폴",
+      "freq": 50
+    },
+    {
+      "term": "Pesticide",
+      "freq": 50
+    },
+    {
+      "term": "Ammunition",
+      "freq": 49
+    },
+    {
+      "term": "Bleaching power",
+      "freq": 49
+    },
+    {
+      "term": "갓김치",
+      "freq": 48
+    },
+    {
+      "term": "구두약",
+      "freq": 48
+    },
+    {
+      "term": "신호탄",
+      "freq": 48
+    },
+    {
+      "term": "타정총",
+      "freq": 48
+    },
+    {
+      "term": "Ballon",
+      "freq": 48
+    },
+    {
+      "term": "버터",
+      "freq": 47
+    },
+    {
+      "term": "Magazine",
+      "freq": 47
+    },
+    {
+      "term": "알콜음료 (24도 미만)",
+      "freq": 46
+    },
+    {
+      "term": "Fire extinguisher",
+      "freq": 46
+    },
+    {
+      "term": "Internal medicine",
+      "freq": 46
+    },
+    {
+      "term": "Sun cream",
+      "freq": 46
+    },
+    {
+      "term": "농구공",
+      "freq": 45
+    },
+    {
+      "term": "햄버거",
+      "freq": 45
+    },
+    {
+      "term": "고체 치즈",
+      "freq": 44
+    },
+    {
+      "term": "Medical phills",
+      "freq": 44
+    },
+    {
+      "term": "당구큐",
+      "freq": 43
+    },
+    {
+      "term": "쇠지레",
+      "freq": 43
+    },
+    {
+      "term": "Firecracker",
+      "freq": 43
+    },
+    {
+      "term": "Petrol",
+      "freq": 43
+    },
+    {
+      "term": "warheads",
+      "freq": 43
+    },
+    {
+      "term": "여분 리튬이온배터리(100wh 이하)",
+      "freq": 42
+    },
+    {
+      "term": "전정가위",
+      "freq": 42
+    },
+    {
+      "term": "헤드 없는 골프채",
+      "freq": 42
+    },
+    {
+      "term": "Scoccer ball, Football",
+      "freq": 42
+    },
+    {
+      "term": "Baechukimchi",
+      "freq": 41
+    },
+    {
+      "term": "oil colors",
+      "freq": 41
+    },
+    {
+      "term": "Toy gun",
+      "freq": 41
+    },
+    {
+      "term": "고추 스프레이",
+      "freq": 40
+    },
+    {
+      "term": "Ball",
+      "freq": 40
+    },
+    {
+      "term": "Replica guns",
+      "freq": 40
+    },
+    {
+      "term": "몸에 뿌리는 벌레 기피제",
+      "freq": 39
+    },
+    {
+      "term": "바느질용 바늘",
+      "freq": 39
+    },
+    {
+      "term": "호버보드",
+      "freq": 39
+    },
+    {
+      "term": "Hetbahn(Instant rice)",
+      "freq": 39
+    },
+    {
+      "term": "Selfie stick",
+      "freq": 39
+    },
+    {
+      "term": "액상파운데이션",
+      "freq": 38
+    },
+    {
+      "term": "Handwash",
+      "freq": 38
+    },
+    {
+      "term": "Soy sauce",
+      "freq": 38
+    },
+    {
+      "term": "Underwater Lantern (high luminance type)",
+      "freq": 38
+    },
+    {
+      "term": "매실 엑기스",
+      "freq": 37
+    },
+    {
+      "term": "사냥칼",
+      "freq": 37
+    },
+    {
+      "term": "사이다",
+      "freq": 37
+    },
+    {
+      "term": "텐트못(6cm 이하)",
+      "freq": 37
+    },
+    {
+      "term": "Hair gel",
+      "freq": 37
+    },
+    {
+      "term": "안전벨트자르는칼(안전벨트커터)",
+      "freq": 36
+    },
+    {
+      "term": "Climbing irons",
+      "freq": 36
+    },
+    {
+      "term": "Eye drops",
+      "freq": 36
+    },
+    {
+      "term": "Hair wax",
+      "freq": 36
+    },
+    {
+      "term": "Kitchen knife",
+      "freq": 36
+    },
+    {
+      "term": "Laver",
+      "freq": 36
+    },
+    {
+      "term": "Pesticide spray",
+      "freq": 36
+    },
+    {
+      "term": "개머리판",
+      "freq": 35
+    },
+    {
+      "term": "마찰성냥(딱성냥)",
+      "freq": 35
+    },
+    {
+      "term": "베드민턴 라켓",
+      "freq": 35
+    },
+    {
+      "term": "샤워젤",
+      "freq": 35
+    },
+    {
+      "term": "Contact lens solution",
+      "freq": 35
+    },
+    {
+      "term": "Fruit juice",
+      "freq": 35
+    },
+    {
+      "term": "다시마국물",
+      "freq": 34
+    },
+    {
+      "term": "조명탄",
+      "freq": 34
+    },
+    {
+      "term": "Cola",
+      "freq": 34
+    },
+    {
+      "term": "Crossbow",
+      "freq": 34
+    },
+    {
+      "term": "Nail scissors",
+      "freq": 34
+    },
+    {
+      "term": "곤약젤리",
+      "freq": 33
+    },
+    {
+      "term": "Agricultural pesticide",
+      "freq": 33
+    },
+    {
+      "term": "Cup ramen(Cup noddles)",
+      "freq": 33
+    },
+    {
+      "term": "Fork",
+      "freq": 33
+    },
+    {
+      "term": "Screwdriver with a blade of 6cm or less",
+      "freq": 33
+    },
+    {
+      "term": "삶은 계란",
+      "freq": 32
+    },
+    {
+      "term": "장난감 총(스폰지 총알)",
+      "freq": 32
+    },
+    {
+      "term": "Blasting caps",
+      "freq": 32
+    },
+    {
+      "term": "갤럭시노트7",
+      "freq": 31
+    },
+    {
+      "term": "너클",
+      "freq": 31
+    },
+    {
+      "term": "의료용 식염수",
+      "freq": 31
+    },
+    {
+      "term": "잭나이프",
+      "freq": 31
+    },
+    {
+      "term": "조각칼",
+      "freq": 31
+    },
+    {
+      "term": "Bullet",
+      "freq": 31
+    },
+    {
+      "term": "Poisons",
+      "freq": 31
+    },
+    {
+      "term": "Vitamin pills",
+      "freq": 31
+    },
+    {
+      "term": "손톱줄",
+      "freq": 30
+    },
+    {
+      "term": "열무김치",
+      "freq": 30
+    },
+    {
+      "term": "헤어 트리트먼트",
+      "freq": 30
+    },
+    {
+      "term": "BB총",
+      "freq": 30
+    },
+    {
+      "term": "Beef jerky",
+      "freq": 30
+    },
+    {
+      "term": "Soybean paste",
+      "freq": 30
+    },
+    {
+      "term": "Tint",
+      "freq": 30
+    },
+    {
+      "term": "가스 고데기(탄화수소가스)",
+      "freq": 29
+    },
+    {
+      "term": "병따개",
+      "freq": 29
+    },
+    {
+      "term": "빙상용 스케이트",
+      "freq": 29
+    },
+    {
+      "term": "쌈장",
+      "freq": 29
+    },
+    {
+      "term": "아령(덤벨)",
+      "freq": 29
+    },
+    {
+      "term": "액체절임 고기류",
+      "freq": 29
+    },
+    {
+      "term": "Baby food",
+      "freq": 29
+    },
+    {
+      "term": "Charcoal",
+      "freq": 29
+    },
+    {
+      "term": "Kubotan",
+      "freq": 29
+    },
+    {
+      "term": "Medical uses for rubbing alcohol",
+      "freq": 29
+    },
+    {
+      "term": "Whisky",
+      "freq": 29
+    },
+    {
+      "term": "네일드릴",
+      "freq": 28
+    },
+    {
+      "term": "립글로스",
+      "freq": 28
+    },
+    {
+      "term": "총기모양 라이터",
+      "freq": 28
+    },
+    {
+      "term": "Coffee(liquid type)",
+      "freq": 28
+    },
+    {
+      "term": "가스충전식 총",
+      "freq": 27
+    },
+    {
+      "term": "Awl, Gimlets",
+      "freq": 27
+    },
+    {
+      "term": "Zippo lighter",
+      "freq": 27
+    },
+    {
+      "term": "그라인더날(절단용)",
+      "freq": 26
+    },
+    {
+      "term": "렌치(총길이 10cm 초과)",
+      "freq": 26
+    },
+    {
+      "term": "Asian liquor",
+      "freq": 26
+    },
+    {
+      "term": "Potato knife peeler",
+      "freq": 26
+    },
+    {
+      "term": "Tennis racket",
+      "freq": 26
+    },
+    {
+      "term": "Walking stick",
+      "freq": 26
+    },
+    {
+      "term": "Wet battery",
+      "freq": 26
+    },
+    {
+      "term": "라이터 연료",
+      "freq": 25
+    },
+    {
+      "term": "무채칼",
+      "freq": 25
+    },
+    {
+      "term": "얼음류",
+      "freq": 25
+    },
+    {
+      "term": "장조림 통조림",
+      "freq": 25
+    },
+    {
+      "term": "전자장비에 장착된 리튬이온배터리(100wh 이하)",
+      "freq": 25
+    },
+    {
+      "term": "총기의 구성부품",
+      "freq": 25
+    },
+    {
+      "term": "Box cutters",
+      "freq": 25
+    },
+    {
+      "term": "Skin",
+      "freq": 25
+    },
+    {
+      "term": "곰탕",
+      "freq": 24
+    },
+    {
+      "term": "최루가스",
+      "freq": 24
+    },
+    {
+      "term": "히팅건(열풍건)",
+      "freq": 24
+    },
+    {
+      "term": "Baseball ball",
+      "freq": 24
+    },
+    {
+      "term": "Bow",
+      "freq": 24
+    },
+    {
+      "term": "Copsticks",
+      "freq": 24
+    },
+    {
+      "term": "Crochet book",
+      "freq": 24
+    },
+    {
+      "term": "Flammable paint",
+      "freq": 24
+    },
+    {
+      "term": "Hair Conditioner",
+      "freq": 24
+    },
+    {
+      "term": "Red ginseng extract",
+      "freq": 24
+    },
+    {
+      "term": "Safety razor",
+      "freq": 24
+    },
+    {
+      "term": "요구르트",
+      "freq": 23
+    },
+    {
+      "term": "LP 가스",
+      "freq": 23
+    },
+    {
+      "term": "Skateboard",
+      "freq": 23
+    },
+    {
+      "term": "공포탄",
+      "freq": 22
+    },
+    {
+      "term": "그라인더날(마모용)",
+      "freq": 22
+    },
+    {
+      "term": "믹스기 칼날",
+      "freq": 22
+    },
+    {
+      "term": "비강스프레이",
+      "freq": 22
+    },
+    {
+      "term": "석유버너",
+      "freq": 22
+    },
+    {
+      "term": "수지침",
+      "freq": 22
+    },
+    {
+      "term": "전기라이터(플라스마형)",
+      "freq": 22
+    },
+    {
+      "term": "파김치",
+      "freq": 22
+    },
+    {
+      "term": "Air cylinder",
+      "freq": 22
+    },
+    {
+      "term": "Catapults",
+      "freq": 22
+    },
+    {
+      "term": "Razor cartridge",
+      "freq": 22
+    },
+    {
+      "term": "shovel",
+      "freq": 22
+    },
+    {
+      "term": "다이너마이트",
+      "freq": 21
+    },
+    {
+      "term": "모형실탄(악세사리류)",
+      "freq": 21
+    },
+    {
+      "term": "펜싱용 검",
+      "freq": 21
+    },
+    {
+      "term": "Ax",
+      "freq": 21
+    },
+    {
+      "term": "Drills",
+      "freq": 21
+    },
+    {
+      "term": "Hallabong",
+      "freq": 21
+    },
+    {
+      "term": "Kickboard",
+      "freq": 21
+    },
+    {
+      "term": "Landmine",
+      "freq": 21
+    },
+    {
+      "term": "Lighter fluid reflls",
+      "freq": 21
+    },
+    {
+      "term": "Oxyzen spray",
+      "freq": 21
+    },
+    {
+      "term": "Porridge",
+      "freq": 21
+    },
+    {
+      "term": "Tomato",
+      "freq": 21
+    },
+    {
+      "term": "Wave perm agents",
+      "freq": 21
+    },
+    {
+      "term": "메니큐어리무버",
+      "freq": 20
+    },
+    {
+      "term": "염소",
+      "freq": 20
+    },
+    {
+      "term": "오징어젓",
+      "freq": 20
+    },
+    {
+      "term": "제초제",
+      "freq": 20
+    },
+    {
+      "term": "특별 식이처방음식",
+      "freq": 20
+    },
+    {
+      "term": "Garglin(Mouthwash)",
+      "freq": 20
+    },
+    {
+      "term": "Scalpels",
+      "freq": 20
+    },
+    {
+      "term": "라이플총",
+      "freq": 19
+    },
+    {
+      "term": "새우액젓",
+      "freq": 19
+    },
+    {
+      "term": "Billy club",
+      "freq": 19
+    },
+    {
+      "term": "Electric mosquito killer",
+      "freq": 19
+    },
+    {
+      "term": "Hair mousse",
+      "freq": 19
+    },
+    {
+      "term": "Taiser gun",
+      "freq": 19
+    },
+    {
+      "term": "깻잎 통조림",
+      "freq": 18
+    },
+    {
+      "term": "빙초산",
+      "freq": 18
+    },
+    {
+      "term": "시럽",
+      "freq": 18
+    },
+    {
+      "term": "액기스",
+      "freq": 18
+    },
+    {
+      "term": "여분 리튬메탈배터리(리튬 함량 2g 이하)",
+      "freq": 18
+    },
+    {
+      "term": "엽총",
+      "freq": 18
+    },
+    {
+      "term": "후추 스프레이",
+      "freq": 18
+    },
+    {
+      "term": "Air freshener spray",
+      "freq": 18
+    },
+    {
+      "term": "Banana",
+      "freq": 18
+    },
+    {
+      "term": "Liquid soap",
+      "freq": 18
+    },
+    {
+      "term": "Lithium polymer battery",
+      "freq": 18
+    },
+    {
+      "term": "Mango",
+      "freq": 18
+    },
+    {
+      "term": "Oxyzen cylinder",
+      "freq": 18
+    },
+    {
+      "term": "Water paint",
+      "freq": 18
+    },
+    {
+      "term": "모의 총기류",
+      "freq": 17
+    },
+    {
+      "term": "세안폼",
+      "freq": 17
+    },
+    {
+      "term": "헥사메딘 가글액",
+      "freq": 17
+    },
+    {
+      "term": "Arrow",
+      "freq": 17
+    },
+    {
+      "term": "Bamboo knitting neddle",
+      "freq": 17
+    },
+    {
+      "term": "Coffee(powder type)",
+      "freq": 17
+    },
+    {
+      "term": "Flammable luminous paint",
+      "freq": 17
+    },
+    {
+      "term": "Numchucks",
+      "freq": 17
+    },
+    {
+      "term": "Peach",
+      "freq": 17
+    },
+    {
+      "term": "Strawberry",
+      "freq": 17
+    },
+    {
+      "term": "구강세정제",
+      "freq": 16
+    },
+    {
+      "term": "대형 일회용 라이터",
+      "freq": 16
+    },
+    {
+      "term": "불고기 양념",
+      "freq": 16
+    },
+    {
+      "term": "설렁탕",
+      "freq": 16
+    },
+    {
+      "term": "액체 마스카라",
+      "freq": 16
+    },
+    {
+      "term": "Apple MacBook Pro",
+      "freq": 16
+    },
+    {
+      "term": "Baseball bats",
+      "freq": 16
+    },
+    {
+      "term": "Drill bit",
+      "freq": 16
+    },
+    {
+      "term": "Fire Starter Stick",
+      "freq": 16
+    },
+    {
+      "term": "Harpoon",
+      "freq": 16
+    },
+    {
+      "term": "Lighter gas refills",
+      "freq": 16
+    },
+    {
+      "term": "Milk lotion",
+      "freq": 16
+    },
+    {
+      "term": "Olive oil",
+      "freq": 16
+    },
+    {
+      "term": "갈치액젓",
+      "freq": 15
+    },
+    {
+      "term": "끌(끌길이 6cm 이하)",
+      "freq": 15
+    },
+    {
+      "term": "인화성가스",
+      "freq": 15
+    },
+    {
+      "term": "자두",
+      "freq": 15
+    },
+    {
+      "term": "한약봉지자르는칼(한약파우치커터)",
+      "freq": 15
+    },
+    {
+      "term": "Billiard ball",
+      "freq": 15
+    },
+    {
+      "term": "Bowling ball",
+      "freq": 15
+    },
+    {
+      "term": "Lip balm",
+      "freq": 15
+    },
+    {
+      "term": "Spanner(longer than 10cm)",
+      "freq": 15
+    },
+    {
+      "term": "Throwing stars",
+      "freq": 15
+    },
+    {
+      "term": "Tweezers",
+      "freq": 15
+    },
+    {
+      "term": "Wine corkscrew",
+      "freq": 15
+    },
+    {
+      "term": "가스 고데기 여분 리필",
+      "freq": 14
+    },
+    {
+      "term": "배구공",
+      "freq": 14
+    },
+    {
+      "term": "번개탄",
+      "freq": 14
+    },
+    {
+      "term": "스프레이페인트",
+      "freq": 14
+    },
+    {
+      "term": "전자장비에 장착된 리튬이온배터리(100wh초과~160wh이하)",
+      "freq": 14
+    },
+    {
+      "term": "커터칼날",
+      "freq": 14
+    },
+    {
+      "term": "Bulgogi",
+      "freq": 14
+    },
+    {
+      "term": "Cleansing oil",
+      "freq": 14
+    },
+    {
+      "term": "Hair oil",
+      "freq": 14
+    },
+    {
+      "term": "Ice cream",
+      "freq": 14
+    },
+    {
+      "term": "Liquid Milk",
+      "freq": 14
+    },
+    {
+      "term": "Mercury",
+      "freq": 14
+    },
+    {
+      "term": "Micro kickboard",
+      "freq": 14
+    },
+    {
+      "term": "Safety pin",
+      "freq": 14
+    },
+    {
+      "term": "Sandwich",
+      "freq": 14
+    },
+    {
+      "term": "멸치액젓",
+      "freq": 13
+    },
+    {
+      "term": "명란젓",
+      "freq": 13
+    },
+    {
+      "term": "발연 시구공, 발연 골프공",
+      "freq": 13
+    },
+    {
+      "term": "스파클러",
+      "freq": 13
+    },
+    {
+      "term": "압축산소",
+      "freq": 13
+    },
+    {
+      "term": "전자장비에 장착된 리튬이온배터리(160wh 초과)",
+      "freq": 13
+    },
+    {
+      "term": "해열파스",
+      "freq": 13
+    },
+    {
+      "term": "Crutch",
+      "freq": 13
+    },
+    {
+      "term": "Electric kickboard",
+      "freq": 13
+    },
+    {
+      "term": "Foldable knife",
+      "freq": 13
+    },
+    {
+      "term": "golf club heads",
+      "freq": 13
+    },
+    {
+      "term": "Mask pack",
+      "freq": 13
+    },
+    {
+      "term": "slicers",
+      "freq": 13
+    },
+    {
+      "term": "고체 사탕",
+      "freq": 12
+    },
+    {
+      "term": "다목적 칼(다용도 칼)",
+      "freq": 12
+    },
+    {
+      "term": "렌치(총길이 10cm 이하)",
+      "freq": 12
+    },
+    {
+      "term": "산성스프레이",
+      "freq": 12
+    },
+    {
+      "term": "외용연고",
+      "freq": 12
+    },
+    {
+      "term": "자전거용 에어백 헬멧",
+      "freq": 12
+    },
+    {
+      "term": "참치액젓",
+      "freq": 12
+    },
+    {
+      "term": "혈액",
+      "freq": 12
+    },
+    {
+      "term": "Art sword",
+      "freq": 12
+    },
+    {
+      "term": "Chinese ink",
+      "freq": 12
+    },
+    {
+      "term": "Gunpowder",
+      "freq": 12
+    },
+    {
+      "term": "Moisturizing cream",
+      "freq": 12
+    },
+    {
+      "term": "Replica bombs",
+      "freq": 12
+    },
+    {
+      "term": "Sausage",
+      "freq": 12
+    },
+    {
+      "term": "Spoon",
+      "freq": 12
+    },
+    {
+      "term": "trowel",
+      "freq": 12
+    },
+    {
+      "term": "도화선",
+      "freq": 11
+    },
+    {
+      "term": "방사능 물질",
+      "freq": 11
+    },
+    {
+      "term": "불꽃놀이",
+      "freq": 11
+    },
+    {
+      "term": "산탄총",
+      "freq": 11
+    },
+    {
+      "term": "야경봉",
+      "freq": 11
+    },
+    {
+      "term": "얼음송곳",
+      "freq": 11
+    },
+    {
+      "term": "의료용 수은체온계",
+      "freq": 11
+    },
+    {
+      "term": "일반용 전자장비에 장착된 리튬메탈배터리(리튬 함량 2g 초과)",
+      "freq": 11
+    },
+    {
+      "term": "장난감 야구 배트",
+      "freq": 11
+    },
+    {
+      "term": "클렌징 로션",
+      "freq": 11
+    },
+    {
+      "term": "클렌징 크림",
+      "freq": 11
+    },
+    {
+      "term": "플라스틱 장난감 야구 배트",
+      "freq": 11
+    },
+    {
+      "term": "하수구 청소제제",
+      "freq": 11
+    },
+    {
+      "term": "홍차(액상 홍차)",
+      "freq": 11
+    },
+    {
+      "term": "Goshes",
+      "freq": 11
+    },
+    {
+      "term": "Nail polish",
+      "freq": 11
+    },
+    {
+      "term": "Oil paint",
+      "freq": 11
+    },
+    {
+      "term": "Safety match",
+      "freq": 11
+    },
+    {
+      "term": "Smoke grenade",
+      "freq": 11
+    },
+    {
+      "term": "Tent peg (longer than 6cm)",
+      "freq": 11
+    },
+    {
+      "term": "Viewing Stone",
+      "freq": 11
+    },
+    {
+      "term": "골프 스윙 연습기",
+      "freq": 10
+    },
+    {
+      "term": "등유",
+      "freq": 10
+    },
+    {
+      "term": "리스테린(구강세정제)",
+      "freq": 10
+    },
+    {
+      "term": "샤워코롱",
+      "freq": 10
+    },
+    {
+      "term": "양궁",
+      "freq": 10
+    },
+    {
+      "term": "유산균음료",
+      "freq": 10
+    },
+    {
+      "term": "창",
+      "freq": 10
+    },
+    {
+      "term": "펜치(총길이 10cm 이하)",
+      "freq": 10
+    },
+    {
+      "term": "휴대용 전동톱",
+      "freq": 10
+    },
+    {
+      "term": "Antiphlogistic agnet spray",
+      "freq": 10
+    },
+    {
+      "term": "Cold liquid medicine",
+      "freq": 10
+    },
+    {
+      "term": "Denotes",
+      "freq": 10
+    },
+    {
+      "term": "Drill parts",
+      "freq": 10
+    },
+    {
+      "term": "Gasoline",
+      "freq": 10
+    },
+    {
+      "term": "Grenade",
+      "freq": 10
+    },
+    {
+      "term": "handwarmers(fuel type)",
+      "freq": 10
+    },
+    {
+      "term": "Medical oxygen cylinder",
+      "freq": 10
+    },
+    {
+      "term": "Nail nipper",
+      "freq": 10
+    },
+    {
+      "term": "Pickled vegetables",
+      "freq": 10
+    },
+    {
+      "term": "Screwdriver with a blade longer than 6cm",
+      "freq": 10
+    },
+    {
+      "term": "Solid chocolate",
+      "freq": 10
+    },
+    {
+      "term": "Spare lithium ion battery(100wh~160wh)",
+      "freq": 10
+    },
+    {
+      "term": "Tent poles",
+      "freq": 10
+    },
+    {
+      "term": "국궁",
+      "freq": 9
+    },
+    {
+      "term": "기상용 수은온도계",
+      "freq": 9
+    },
+    {
+      "term": "농축우유",
+      "freq": 9
+    },
+    {
+      "term": "디젤",
+      "freq": 9
+    },
+    {
+      "term": "스패너(총길이 10cm 이하)",
+      "freq": 9
+    },
+    {
+      "term": "신호탄용 총",
+      "freq": 9
+    },
+    {
+      "term": "썬탠로션",
+      "freq": 9
+    },
+    {
+      "term": "야채주스",
+      "freq": 9
+    },
+    {
+      "term": "재봉바늘",
+      "freq": 9
+    },
+    {
+      "term": "페인트 신나",
+      "freq": 9
+    },
+    {
+      "term": "펜치(총길이 10cm 초과)",
+      "freq": 9
+    },
+    {
+      "term": "Alcoholic beverages (less than 24% alcohol by volume)",
+      "freq": 9
+    },
+    {
+      "term": "Basketball",
+      "freq": 9
+    },
+    {
+      "term": "Butter",
+      "freq": 9
+    },
+    {
+      "term": "Hamburger",
+      "freq": 9
+    },
+    {
+      "term": "Leaf mustard kimchi",
+      "freq": 9
+    },
+    {
+      "term": "Nail gun",
+      "freq": 9
+    },
+    {
+      "term": "Shoes liquid polish",
+      "freq": 9
+    },
+    {
+      "term": "Signal flare",
+      "freq": 9
+    },
+    {
+      "term": "경유",
+      "freq": 8
+    },
+    {
+      "term": "대형 곽성냥",
+      "freq": 8
+    },
+    {
+      "term": "루즈",
+      "freq": 8
+    },
+    {
+      "term": "산악용 망치",
+      "freq": 8
+    },
+    {
+      "term": "석탄",
+      "freq": 8
+    },
+    {
+      "term": "의료용 전자장비에 장착된 리튬메탈배터리(리튬함량 8g 이하)",
+      "freq": 8
+    },
+    {
+      "term": "청주",
+      "freq": 8
+    },
+    {
+      "term": "후르츠칵테일 통조림",
+      "freq": 8
+    },
+    {
+      "term": "Billiard cues",
+      "freq": 8
+    },
+    {
+      "term": "Cheese(Solid)",
+      "freq": 8
+    },
+    {
+      "term": "Clowbar",
+      "freq": 8
+    },
+    {
+      "term": "golf club shaft",
+      "freq": 8
+    },
+    {
+      "term": "Pepper spray",
+      "freq": 8
+    },
+    {
+      "term": "Pruner",
+      "freq": 8
+    },
+    {
+      "term": "Spare lithium ion battery(not more than 100wh)",
+      "freq": 8
+    },
+    {
+      "term": "메틸알콜온도계",
+      "freq": 7
+    },
+    {
+      "term": "쇄빙도끼",
+      "freq": 7
+    },
+    {
+      "term": "스프레드류",
+      "freq": 7
+    },
+    {
+      "term": "알콜음료 (70도 이상)",
+      "freq": 7
+    },
+    {
+      "term": "액상 아이라이너",
+      "freq": 7
+    },
+    {
+      "term": "연료없는 라이터",
+      "freq": 7
+    },
+    {
+      "term": "인화성액체",
+      "freq": 7
+    },
+    {
+      "term": "제도용 콤파스",
+      "freq": 7
+    },
+    {
+      "term": "크림 치즈",
+      "freq": 7
+    },
+    {
+      "term": "폭발장치",
+      "freq": 7
+    },
+    {
+      "term": "한방용 침류",
+      "freq": 7
+    },
+    {
+      "term": "A butt plate of a rifle",
+      "freq": 7
+    },
+    {
+      "term": "Badminton racket",
+      "freq": 7
+    },
+    {
+      "term": "Cider",
+      "freq": 7
+    },
+    {
+      "term": "Hoverboard",
+      "freq": 7
+    },
+    {
+      "term": "Hunting knife",
+      "freq": 7
+    },
+    {
+      "term": "Insect repellent for skin",
+      "freq": 7
+    },
+    {
+      "term": "Japanese apricot extract",
+      "freq": 7
+    },
+    {
+      "term": "Liquid foundation",
+      "freq": 7
+    },
+    {
+      "term": "Seat belt cutter",
+      "freq": 7
+    },
+    {
+      "term": "Sewinig neddle",
+      "freq": 7
+    },
+    {
+      "term": "Shower gel",
+      "freq": 7
+    },
+    {
+      "term": "Strike anywhere match",
+      "freq": 7
+    },
+    {
+      "term": "Tent peg (6cm or less)",
+      "freq": 7
+    },
+    {
+      "term": "견과류 망치",
+      "freq": 6
+    },
+    {
+      "term": "라코르스 스틱",
+      "freq": 6
+    },
+    {
+      "term": "만년필잉크",
+      "freq": 6
+    },
+    {
+      "term": "모의 폭발물",
+      "freq": 6
+    },
+    {
+      "term": "보트 노",
+      "freq": 6
+    },
+    {
+      "term": "볼베어링총",
+      "freq": 6
+    },
+    {
+      "term": "세라믹 칼",
+      "freq": 6
+    },
+    {
+      "term": "소총",
+      "freq": 6
+    },
+    {
+      "term": "손도끼",
+      "freq": 6
+    },
+    {
+      "term": "압축공기총",
+      "freq": 6
+    },
+    {
+      "term": "액상 위장약",
+      "freq": 6
+    },
+    {
+      "term": "약용크림",
+      "freq": 6
+    },
+    {
+      "term": "일반용 여분 리튬메탈배터리(리튬 함량 2g 초과)",
+      "freq": 6
+    },
+    {
+      "term": "전자장비에 장착된 리튬메탈배터리(리튬 함량 2g 이하)",
+      "freq": 6
+    },
+    {
+      "term": "혈액관련 약제",
+      "freq": 6
+    },
+    {
+      "term": "BB Gun",
+      "freq": 6
+    },
+    {
+      "term": "Boiled egg",
+      "freq": 6
+    },
+    {
+      "term": "Carving knife",
+      "freq": 6
+    },
+    {
+      "term": "Galaxy Note7",
+      "freq": 6
+    },
+    {
+      "term": "Hair treatment",
+      "freq": 6
+    },
+    {
+      "term": "Jackknife",
+      "freq": 6
+    },
+    {
+      "term": "Kelp soup",
+      "freq": 6
+    },
+    {
+      "term": "Knuckle",
+      "freq": 6
+    },
+    {
+      "term": "Konjac jelly",
+      "freq": 6
+    },
+    {
+      "term": "Light flare",
+      "freq": 6
+    },
+    {
+      "term": "Nail file",
+      "freq": 6
+    },
+    {
+      "term": "Saline for medical use",
+      "freq": 6
+    },
+    {
+      "term": "Toy guns(Sponge bullets)",
+      "freq": 6
+    },
+    {
+      "term": "Young radish kimchi",
+      "freq": 6
+    },
+    {
+      "term": "구두크림",
+      "freq": 5
+    },
+    {
+      "term": "꽁치 통조림",
+      "freq": 5
+    },
+    {
+      "term": "도우",
+      "freq": 5
+    },
+    {
+      "term": "목검류",
+      "freq": 5
+    },
+    {
+      "term": "물엿",
+      "freq": 5
+    },
+    {
+      "term": "스포츠공",
+      "freq": 5
+    },
+    {
+      "term": "연발권총",
+      "freq": 5
+    },
+    {
+      "term": "화학물질을 담은 용기(분사기 등)",
+      "freq": 5
+    },
+    {
+      "term": "Bottle opener",
+      "freq": 5
+    },
+    {
+      "term": "Canned meat with source",
+      "freq": 5
+    },
+    {
+      "term": "Daicon knife peeler",
+      "freq": 5
+    },
+    {
+      "term": "Dumbbell",
+      "freq": 5
+    },
+    {
+      "term": "Electronic devices containing lithium ion(not more than 100wh)",
+      "freq": 5
+    },
+    {
+      "term": "Gas gun",
+      "freq": 5
+    },
+    {
+      "term": "Grinder blades (for cutting)",
+      "freq": 5
+    },
+    {
+      "term": "Gun shaped lighter",
+      "freq": 5
+    },
+    {
+      "term": "Hair curlers containing hydrocarbon gas",
+      "freq": 5
+    },
+    {
+      "term": "Ice skates",
+      "freq": 5
+    },
+    {
+      "term": "Ices",
+      "freq": 5
+    },
+    {
+      "term": "Lighter fuel",
+      "freq": 5
+    },
+    {
+      "term": "Lip gloss",
+      "freq": 5
+    },
+    {
+      "term": "Meats for liquid salt",
+      "freq": 5
+    },
+    {
+      "term": "Nail Drill",
+      "freq": 5
+    },
+    {
+      "term": "Part of gun",
+      "freq": 5
+    },
+    {
+      "term": "Ssamjang",
+      "freq": 5
+    },
+    {
+      "term": "Wrench(longer than 10cm)",
+      "freq": 5
+    },
+    {
+      "term": "까나리액젓",
+      "freq": 4
+    },
+    {
+      "term": "끌(끌길이 6cm 초과)",
+      "freq": 4
+    },
+    {
+      "term": "마가린",
+      "freq": 4
+    },
+    {
+      "term": "스케이트 날",
+      "freq": 4
+    },
+    {
+      "term": "얼음조각칼",
+      "freq": 4
+    },
+    {
+      "term": "쥐약",
+      "freq": 4
+    },
+    {
+      "term": "칼이 든 지팡이",
+      "freq": 4
+    },
+    {
+      "term": "탁구 라켓",
+      "freq": 4
+    },
+    {
+      "term": "톱류",
+      "freq": 4
+    },
+    {
+      "term": "프라이어(총길이 10cm 초과)",
+      "freq": 4
+    },
+    {
+      "term": "하키 스틱",
+      "freq": 4
+    },
+    {
+      "term": "Blank ammunitionn",
+      "freq": 4
+    },
+    {
+      "term": "Chlorine",
+      "freq": 4
+    },
+    {
+      "term": "Dynamite",
+      "freq": 4
+    },
+    {
+      "term": "Fermented squid",
+      "freq": 4
+    },
+    {
+      "term": "Gomguck",
+      "freq": 4
+    },
+    {
+      "term": "Green onion kimchi",
+      "freq": 4
+    },
+    {
+      "term": "Grinder blades (for wear and tear)",
+      "freq": 4
+    },
+    {
+      "term": "Heating Guns",
+      "freq": 4
+    },
+    {
+      "term": "Herbcide",
+      "freq": 4
+    },
+    {
+      "term": "LPG",
+      "freq": 4
+    },
+    {
+      "term": "Mixer blade",
+      "freq": 4
+    },
+    {
+      "term": "mock ammunition(for accessory)",
+      "freq": 4
+    },
+    {
+      "term": "Nail polish remover",
+      "freq": 4
+    },
+    {
+      "term": "Nasal spray",
+      "freq": 4
+    },
+    {
+      "term": "Oil burner with fuel",
+      "freq": 4
+    },
+    {
+      "term": "Plazma Lighters",
+      "freq": 4
+    },
+    {
+      "term": "Saber",
+      "freq": 4
+    },
+    {
+      "term": "Specific diet prescription food",
+      "freq": 4
+    },
+    {
+      "term": "Sujichim",
+      "freq": 4
+    },
+    {
+      "term": "tear gas",
+      "freq": 4
+    },
+    {
+      "term": "Yogurt",
+      "freq": 4
+    },
+    {
+      "term": "기상용 수은기압계",
+      "freq": 3
+    },
+    {
+      "term": "무연화약",
+      "freq": 3
+    },
+    {
+      "term": "산업용 못총",
+      "freq": 3
+    },
+    {
+      "term": "스퀴시 라켓",
+      "freq": 3
+    },
+    {
+      "term": "액젓류",
+      "freq": 3
+    },
+    {
+      "term": "엔진오일, 윤활유",
+      "freq": 3
+    },
+    {
+      "term": "철권",
+      "freq": 3
+    },
+    {
+      "term": "투석기",
+      "freq": 3
+    },
+    {
+      "term": "Big lighter",
+      "freq": 3
+    },
+    {
+      "term": "Bulgogi sauce",
+      "freq": 3
+    },
+    {
+      "term": "Canned sesame leaves",
+      "freq": 3
+    },
+    {
+      "term": "Chinese medicine cutting knife",
+      "freq": 3
+    },
+    {
+      "term": "Chisel with a blade of 6cm or less",
+      "freq": 3
+    },
+    {
+      "term": "Extract",
+      "freq": 3
+    },
+    {
+      "term": "Facial foam",
+      "freq": 3
+    },
+    {
+      "term": "Fake guns",
+      "freq": 3
+    },
+    {
+      "term": "flammable gas",
+      "freq": 3
+    },
+    {
+      "term": "Glacial acetic acid",
+      "freq": 3
+    },
+    {
+      "term": "Hairtail aekjeot",
+      "freq": 3
+    },
+    {
+      "term": "Hexamedine gargle",
+      "freq": 3
+    },
+    {
+      "term": "Liquid mascara",
+      "freq": 3
+    },
+    {
+      "term": "Mouthwash",
+      "freq": 3
+    },
+    {
+      "term": "Plum",
+      "freq": 3
+    },
+    {
+      "term": "Rifle",
+      "freq": 3
+    },
+    {
+      "term": "Seolleongtang (Ox bone soup)",
+      "freq": 3
+    },
+    {
+      "term": "Shot gun",
+      "freq": 3
+    },
+    {
+      "term": "Shrimp aekjeot",
+      "freq": 3
+    },
+    {
+      "term": "Spare lithium metal battery(not more than 2g lithium per battery)",
+      "freq": 3
+    },
+    {
+      "term": "Syrup",
+      "freq": 3
+    },
+    {
+      "term": "굴액젓",
+      "freq": 2
+    },
+    {
+      "term": "무술 장비",
+      "freq": 2
+    },
+    {
+      "term": "빙과류",
+      "freq": 2
+    },
+    {
+      "term": "빙벽 등반용 스틱",
+      "freq": 2
+    },
+    {
+      "term": "액상 초콜릿",
+      "freq": 2
+    },
+    {
+      "term": "의료용 여분 리튬메탈배터리(리튬 함량 2g 초과~8g 이하)",
+      "freq": 2
+    },
+    {
+      "term": "출발 신호용 총",
+      "freq": 2
+    },
+    {
+      "term": "테러빈유",
+      "freq": 2
+    },
+    {
+      "term": "프라이어(총길이 10cm 이하)",
+      "freq": 2
+    },
+    {
+      "term": "프로판가스",
+      "freq": 2
+    },
+    {
+      "term": "Acid spray",
+      "freq": 2
+    },
+    {
+      "term": "Airbag bike helmet",
+      "freq": 2
+    },
+    {
+      "term": "Archery",
+      "freq": 2
+    },
+    {
+      "term": "Black tea(liquid type)",
+      "freq": 2
+    },
+    {
+      "term": "Blood",
+      "freq": 2
+    },
+    {
+      "term": "Cleansing cream",
+      "freq": 2
+    },
+    {
+      "term": "Cleansing lotion",
+      "freq": 2
+    },
+    {
+      "term": "CO2 카트리지",
+      "freq": 2
+    },
+    {
+      "term": "Compressed oxygen",
+      "freq": 2
+    },
+    {
+      "term": "Cutter blade",
+      "freq": 2
+    },
+    {
+      "term": "Drain cleaner",
+      "freq": 2
+    },
+    {
+      "term": "Electronic devices containing lithium ion(100wh~160wh)",
+      "freq": 2
+    },
+    {
+      "term": "Electronic devices containing lithium ion(more than 160wh)",
+      "freq": 2
+    },
+    {
+      "term": "Electronic devices containing lithium metal (more than 2g lithium per battery)",
+      "freq": 2
+    },
+    {
+      "term": "Fireworks",
+      "freq": 2
+    },
+    {
+      "term": "Fuse",
+      "freq": 2
+    },
+    {
+      "term": "Gas refill for hair curler",
+      "freq": 2
+    },
+    {
+      "term": "Golf swing trainers",
+      "freq": 2
+    },
+    {
+      "term": "Ice pick",
+      "freq": 2
+    },
+    {
+      "term": "Kerosene oil",
+      "freq": 2
+    },
+    {
+      "term": "Lgnition coal",
+      "freq": 2
+    },
+    {
+      "term": "Listerine(Mouthwash)",
+      "freq": 2
+    },
+    {
+      "term": "Medical mercury-thermometer",
+      "freq": 2
+    },
+    {
+      "term": "Myeolchi aekjeot",
+      "freq": 2
+    },
+    {
+      "term": "Night stick",
+      "freq": 2
+    },
+    {
+      "term": "Patch for fever",
+      "freq": 2
+    },
+    {
+      "term": "Plier(10cm or less)",
+      "freq": 2
+    },
+    {
+      "term": "Potable electric saw",
+      "freq": 2
+    },
+    {
+      "term": "Radioactive material",
+      "freq": 2
+    },
+    {
+      "term": "Salted pollack roe",
+      "freq": 2
+    },
+    {
+      "term": "Shower cologne",
+      "freq": 2
+    },
+    {
+      "term": "Skin ointment",
+      "freq": 2
+    },
+    {
+      "term": "Smoke gold ball",
+      "freq": 2
+    },
+    {
+      "term": "Solid candy",
+      "freq": 2
+    },
+    {
+      "term": "Sparklers",
+      "freq": 2
+    },
+    {
+      "term": "Spear",
+      "freq": 2
+    },
+    {
+      "term": "Spray pqaint",
+      "freq": 2
+    },
+    {
+      "term": "Toy baseball bat",
+      "freq": 2
+    },
+    {
+      "term": "Toy kids plastic baseball bat",
+      "freq": 2
+    },
+    {
+      "term": "Tuna aekjeot",
+      "freq": 2
+    },
+    {
+      "term": "Utility knife",
+      "freq": 2
+    },
+    {
+      "term": "Volleyball",
+      "freq": 2
+    },
+    {
+      "term": "Wrench(10cm or less)",
+      "freq": 2
+    },
+    {
+      "term": "Yogurt beverage",
+      "freq": 2
+    },
+    {
+      "term": "1인당 1개의 보호케이스가 있는 의학용 또는 진료용 수은 온도계",
+      "freq": 1
+    },
+    {
+      "term": "24%이상 70% 미만의 알콜이 들어있는 병 5ℓ이하의 알콜 음료",
+      "freq": 1
+    },
+    {
+      "term": "3% 과산화수소",
+      "freq": 1
+    },
+    {
+      "term": "5.5cm 미만의 칼날",
+      "freq": 1
+    },
+    {
+      "term": "5.5cm 미만의 칼날이 있는 가위",
+      "freq": 1
+    },
+    {
+      "term": "5.5cm 이상의 날을 가진 뾰족한 가위",
+      "freq": 1
+    },
+    {
+      "term": "50㎖를 초과하는 접착제",
+      "freq": 1
+    },
+    {
+      "term": "70도 이상의 알콜 음료",
+      "freq": 1
+    },
+    {
+      "term": "가스 및 가스용기(예, 부탄, 프로판, 아세틸렌, 산소)",
+      "freq": 1
+    },
+    {
+      "term": "개인위생용품(향수· 화장수· 헤어스프레이, 면도크림, 헤어무스, 구두약, 소염제, 방향제, 신체냄새 제거제, 산소스프레이, 몸에 뿌리는 해충기피제 등) 각 1개",
+      "freq": 1
+    },
+    {
+      "term": "검 및 칼이 든 지팡이",
+      "freq": 1
+    },
+    {
+      "term": "격발뇌관",
+      "freq": 1
+    },
+    {
+      "term": "격발식 활",
+      "freq": 1
+    },
+    {
+      "term": "격투용 도구(예: Knuckle Dusters, 곤봉, 도리캐, Num chucks, Kubatons, Kubasaunts)",
+      "freq": 1
+    },
+    {
+      "term": "공기가 1/3이상 주입된 축구공 등 스포츠용 공",
+      "freq": 1
+    },
+    {
+      "term": "공기가 주입된 풍선",
+      "freq": 1
+    },
+    {
+      "term": "구명조끼에 유입하는 비독성 또는 비 위험가스인 실린더 1쌍",
+      "freq": 1
+    },
+    {
+      "term": "금속 칼붙이",
+      "freq": 1
+    },
+    {
+      "term": "금속제 빵 칼·스테이크용 칼",
+      "freq": 1
+    },
+    {
+      "term": "기동장치 총",
+      "freq": 1
+    },
+    {
+      "term": "기침 억제시럽",
+      "freq": 1
+    },
+    {
+      "term": "깍두기",
+      "freq": 1
+    },
+    {
+      "term": "끝이 둥근 가위",
+      "freq": 1
+    },
+    {
+      "term": "끝이 둥근 금속제 병 음료 개봉기",
+      "freq": 1
+    },
+    {
+      "term": "끝이 뾰족한 우산",
+      "freq": 1
+    },
+    {
+      "term": "낚시받침대",
+      "freq": 1
+    },
+    {
+      "term": "날을 갖고 있는 접이식 칼류",
+      "freq": 1
+    },
+    {
+      "term": "노약자 및 장애인 등의 보행용 지팡이나 목발을 포함한 보조기구",
+      "freq": 1
+    },
+    {
+      "term": "뇌관 및 도화선",
+      "freq": 1
+    },
+    {
+      "term": "눈물가스",
+      "freq": 1
+    },
+    {
+      "term": "다용도 칼",
+      "freq": 1
+    },
+    {
+      "term": "다트(송곳날이 있는 경우)",
+      "freq": 1
+    },
+    {
+      "term": "당구/스누커용 큐대",
+      "freq": 1
+    },
+    {
+      "term": "도끼 및 자귀",
+      "freq": 1
+    },
+    {
+      "term": "독극물류",
+      "freq": 1
+    },
+    {
+      "term": "동물도축장비",
+      "freq": 1
+    },
+    {
+      "term": "드라이아이스 1인당 2.5㎏ 이하",
+      "freq": 1
+    },
+    {
+      "term": "드릴 및 길이가 5.5cm 이상의 드릴날",
+      "freq": 1
+    },
+    {
+      "term": "등산용 폴",
+      "freq": 1
+    },
+    {
+      "term": "등산용아이젠",
+      "freq": 1
+    },
+    {
+      "term": "딱 성냥",
+      "freq": 1
+    },
+    {
+      "term": "뜨개질바늘",
+      "freq": 1
+    },
+    {
+      "term": "라코르스/하키 스틱",
+      "freq": 1
+    },
+    {
+      "term": "렌치/스패너",
+      "freq": 1
+    },
+    {
+      "term": "릴레이용 바통(단단하거나 휘어지는 종류로 곤봉, 경찰봉, 야경봉 및 바통 등)",
+      "freq": 1
+    },
+    {
+      "term": "머리 염색약·퍼머약 1인당 1개",
+      "freq": 1
+    },
+    {
+      "term": "면도칼(해당물품은 권한을 가진 사람에게 위탁)",
+      "freq": 1
+    },
+    {
+      "term": "면도칼과 칼날(안전성이 없는 포장재로 둘러싸인 면도기)",
+      "freq": 1
+    },
+    {
+      "term": "모든 총기류 및 화기류(회전식 권총, 소총, 권총 엽총 및 실탄 등으로 탄피를 포함)",
+      "freq": 1
+    },
+    {
+      "term": "모든 형태의 불꽃",
+      "freq": 1
+    },
+    {
+      "term": "무기로 사용될 수 있는 만큼의 길이를 갖고 금속 혹은 기타물질로 만들어져 날의 길이가 5.5cm이상 되는 칼(세라믹 칼 포함)",
+      "freq": 1
+    },
+    {
+      "term": "박스 커터칼",
+      "freq": 1
+    },
+    {
+      "term": "발파 캡",
+      "freq": 1
+    },
+    {
+      "term": "발화 장치처럼 뾰족하고 날카로운 무기로 사용될 수 있는 연장",
+      "freq": 1
+    },
+    {
+      "term": "방사능 물질(예, 의료용 또는 상업용 동위원소)",
+      "freq": 1
+    },
+    {
+      "term": "복제 또는 모조 폭발물질 또는 장치",
+      "freq": 1
+    },
+    {
+      "term": "복제품 및 모조품 소화기류",
+      "freq": 1
+    },
+    {
+      "term": "볼 베어링 총",
+      "freq": 1
+    },
+    {
+      "term": "부식성 또는 표백성 물질(예, 수은, 염소)",
+      "freq": 1
+    },
+    {
+      "term": "빙상 스케이트",
+      "freq": 1
+    },
+    {
+      "term": "사브르",
+      "freq": 1
+    },
+    {
+      "term": "산성 및 알카리성 물질(예, 습식 배터리)",
+      "freq": 1
+    },
+    {
+      "term": "산업용 볼트 및 못 총",
+      "freq": 1
+    },
+    {
+      "term": "수갑(범죄인 호송 등 공무목적 제외)",
+      "freq": 1
+    },
+    {
+      "term": "수류탄류",
+      "freq": 1
+    },
+    {
+      "term": "수예바늘",
+      "freq": 1
+    },
+    {
+      "term": "수중횃불(랜턴)",
+      "freq": 1
+    },
+    {
+      "term": "스키용폴",
+      "freq": 1
+    },
+    {
+      "term": "스프레이 페인트(체류성 스프레이 포함)",
+      "freq": 1
+    },
+    {
+      "term": "신호기 화염총",
+      "freq": 1
+    },
+    {
+      "term": "실제와 유사한 형태의 모사 총기류",
+      "freq": 1
+    },
+    {
+      "term": "아령",
+      "freq": 1
+    },
+    {
+      "term": "안전캡이 부착된 가스작동용 헤어컬",
+      "freq": 1
+    },
+    {
+      "term": "야구방망이 및 소프트볼 배트",
+      "freq": 1
+    },
+    {
+      "term": "얼음깨는 도끼 및 얼음송곳,",
+      "freq": 1
+    },
+    {
+      "term": "에너지원이 제거된 납땜장비",
+      "freq": 1
+    },
+    {
+      "term": "에어로졸(살충제)",
+      "freq": 1
+    },
+    {
+      "term": "연기를 발생시키는 불연성·불활성 깡통 및 카트리지",
+      "freq": 1
+    },
+    {
+      "term": "연료없는 석유버너·램프 등 캠핑장비",
+      "freq": 1
+    },
+    {
+      "term": "와인오프너 칼",
+      "freq": 1
+    },
+    {
+      "term": "요리용 다지기",
+      "freq": 1
+    },
+    {
+      "term": "용기 당 최고 500㎖ 이하의 마찰(Rubbing)알콜",
+      "freq": 1
+    },
+    {
+      "term": "은장도",
+      "freq": 1
+    },
+    {
+      "term": "인라인 스케이트",
+      "freq": 1
+    },
+    {
+      "term": "인화성 액체 연료(예, 석유/가솔린, 디젤, 라이터용 액체, 알콜, 에탄올)",
+      "freq": 1
+    },
+    {
+      "term": "자연발화 및 자연점화 물질",
+      "freq": 1
+    },
+    {
+      "term": "작살 및 창",
+      "freq": 1
+    },
+    {
+      "term": "작살 및 창 발사 총",
+      "freq": 1
+    },
+    {
+      "term": "전염성 혹은 생물학적 위험 물질(예, 감염된 피, 박테리아 및 바이러스)",
+      "freq": 1
+    },
+    {
+      "term": "정(정길이 6cm 이하)",
+      "freq": 1
+    },
+    {
+      "term": "정(정길이 6cm 초과)",
+      "freq": 1
+    },
+    {
+      "term": "주사바늘(단, 기내에서 의료목적으로 소지한다는 증명서류가 있는 경우에 한한다)",
+      "freq": 1
+    },
+    {
+      "term": "지뢰 및 기타 군사용 폭발물",
+      "freq": 1
+    },
+    {
+      "term": "질산암모늄 비료",
+      "freq": 1
+    },
+    {
+      "term": "채찍류",
+      "freq": 1
+    },
+    {
+      "term": "총 길이가 10cm를 초과하는 스크류 드라이버류",
+      "freq": 1
+    },
+    {
+      "term": "총기모양의 라이터",
+      "freq": 1
+    },
+    {
+      "term": "추진발사용 무기",
+      "freq": 1
+    },
+    {
+      "term": "충격장치(예: 가축 찌르는 막대)",
+      "freq": 1
+    },
+    {
+      "term": "카메라 삼각대",
+      "freq": 1
+    },
+    {
+      "term": "카약 및 카누 패들",
+      "freq": 1
+    },
+    {
+      "term": "칼이 포함되어 있지 않은 손톱깍이 세트",
+      "freq": 1
+    },
+    {
+      "term": "코르크 마개뽑이",
+      "freq": 1
+    },
+    {
+      "term": "콤파스",
+      "freq": 1
+    },
+    {
+      "term": "크리킷",
+      "freq": 1
+    },
+    {
+      "term": "탄약",
+      "freq": 1
+    },
+    {
+      "term": "탈지유",
+      "freq": 1
+    },
+    {
+      "term": "테레빈유 및 페인트 신나",
+      "freq": 1
+    },
+    {
+      "term": "텍티컬 펜",
+      "freq": 1
+    },
+    {
+      "term": "텐트폴 및 팩",
+      "freq": 1
+    },
+    {
+      "term": "편지봉투 개봉용칼",
+      "freq": 1
+    },
+    {
+      "term": "폭발물 및 폭파장치",
+      "freq": 1
+    },
+    {
+      "term": "표창(Throwing stars)",
+      "freq": 1
+    },
+    {
+      "term": "항공사 승무원이 기내 이용 목적으로 직접 소지하는 와인 오프너",
+      "freq": 1
+    },
+    {
+      "term": "항공사의 승인을 받고 기상청 또는 이와 유사한 기관 대리인의 책임하에 운송되는 수은기압계 또는 온도계",
+      "freq": 1
+    },
+    {
+      "term": "항공사의 승인을 받은 용액의 누출가능성이 없는 전지로 작동되는 휠체어나 기타 전지 작동 이동 보조 장비 [단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+      "freq": 1
+    },
+    {
+      "term": "항공운송사업자의 승인을 받은 용액의 누출 가능성이 있는 전지로 작동되는 휠체어나 기타 이동 보조장비[단, 해당 물품은 '항공위험물운송기준' (국토해양부 고시 제2009-1222호) 제210조에 적합하여야 한다]",
+      "freq": 1
+    },
+    {
+      "term": "해머 및 프라이어",
+      "freq": 1
+    },
+    {
+      "term": "화기류의 부속품(망원장치 제외)",
+      "freq": 1
+    },
+    {
+      "term": "화살 및 다트(던지는 화살)",
+      "freq": 1
+    },
+    {
+      "term": "화염 및 기타 불꽃 제조품(파티 폭죽 및 장난감 캡 포함)",
+      "freq": 1
+    },
+    {
+      "term": "화염탄",
+      "freq": 1
+    },
+    {
+      "term": "화장용 아세톤 각 1개",
+      "freq": 1
+    },
+    {
+      "term": "휴대용 라이터 1개(선물용으로 포장되고 연료가 없는 경우 휴대 또는 위탁으로 3개까지 가능)",
+      "freq": 1
+    },
+    {
+      "term": "A bow of reverence",
+      "freq": 1
+    },
+    {
+      "term": "Acupuncture needle",
+      "freq": 1
+    },
+    {
+      "term": "Aekjeots",
+      "freq": 1
+    },
+    {
+      "term": "Alcoholic beverages(exceeding 70% alcohol by volme)",
+      "freq": 1
+    },
+    {
+      "term": "All saws",
+      "freq": 1
+    },
+    {
+      "term": "ammonium nitrate fertilizer",
+      "freq": 1
+    },
+    {
+      "term": "Aquapulse gun",
+      "freq": 1
+    },
+    {
+      "term": "Ball bering gun",
+      "freq": 1
+    },
+    {
+      "term": "Boat paddles",
+      "freq": 1
+    },
+    {
+      "term": "Bolt gun",
+      "freq": 1
+    },
+    {
+      "term": "Burin with a blade longer than 6cm",
+      "freq": 1
+    },
+    {
+      "term": "Burin with a blade of 6cm or less",
+      "freq": 1
+    },
+    {
+      "term": "Canned fruit cocktail",
+      "freq": 1
+    },
+    {
+      "term": "Canned saury",
+      "freq": 1
+    },
+    {
+      "term": "Canoe paddles",
+      "freq": 1
+    },
+    {
+      "term": "Catapult",
+      "freq": 1
+    },
+    {
+      "term": "Ceramic knife",
+      "freq": 1
+    },
+    {
+      "term": "Changnanjeot",
+      "freq": 1
+    },
+    {
+      "term": "Cheese(Creamy)",
+      "freq": 1
+    },
+    {
+      "term": "Cheongju",
+      "freq": 1
+    },
+    {
+      "term": "Chisel with a blade longer than 6cm",
+      "freq": 1
+    },
+    {
+      "term": "Chocolate cream",
+      "freq": 1
+    },
+    {
+      "term": "Claw hammer",
+      "freq": 1
+    },
+    {
+      "term": "Climbing hammer",
+      "freq": 1
+    },
+    {
+      "term": "CO2 cartridge",
+      "freq": 1
+    },
+    {
+      "term": "Coal",
+      "freq": 1
+    },
+    {
+      "term": "Condensed milk",
+      "freq": 1
+    },
+    {
+      "term": "containers with chemicals(spray gun)",
+      "freq": 1
+    },
+    {
+      "term": "Cough syrup",
+      "freq": 1
+    },
+    {
+      "term": "Cricket bats",
+      "freq": 1
+    },
+    {
+      "term": "Diesel oil",
+      "freq": 1
+    },
+    {
+      "term": "Dough",
+      "freq": 1
+    },
+    {
+      "term": "Drawing compass",
+      "freq": 1
+    },
+    {
+      "term": "Electronic devices containing lithium metal  (not more than 2g lithium per battery)",
+      "freq": 1
+    },
+    {
+      "term": "Engine Oil",
+      "freq": 1
+    },
+    {
+      "term": "Explosive device",
+      "freq": 1
+    },
+    {
+      "term": "Fake bombs",
+      "freq": 1
+    },
+    {
+      "term": "Fire ball",
+      "freq": 1
+    },
+    {
+      "term": "flammable liquid",
+      "freq": 1
+    },
+    {
+      "term": "Flare gun",
+      "freq": 1
+    },
+    {
+      "term": "Fountain pen ink",
+      "freq": 1
+    },
+    {
+      "term": "Frozen desserts",
+      "freq": 1
+    },
+    {
+      "term": "Hatchet",
+      "freq": 1
+    },
+    {
+      "term": "Hockey Sticks",
+      "freq": 1
+    },
+    {
+      "term": "Ice axe",
+      "freq": 1
+    },
+    {
+      "term": "Ice carving knife",
+      "freq": 1
+    },
+    {
+      "term": "Ice climbing stick",
+      "freq": 1
+    },
+    {
+      "term": "Inline skates",
+      "freq": 1
+    },
+    {
+      "term": "Iron first weapon",
+      "freq": 1
+    },
+    {
+      "term": "Kanari aekjeot",
+      "freq": 1
+    },
+    {
+      "term": "Kayak paddles",
+      "freq": 1
+    },
+    {
+      "term": "Kkakdugi",
+      "freq": 1
+    },
+    {
+      "term": "Lacrosse Sticks",
+      "freq": 1
+    },
+    {
+      "term": "Large packet of matches",
+      "freq": 1
+    },
+    {
+      "term": "Lipstick",
+      "freq": 1
+    },
+    {
+      "term": "Liquid chocolate",
+      "freq": 1
+    },
+    {
+      "term": "Liquid eyeliner",
+      "freq": 1
+    },
+    {
+      "term": "Margarine",
+      "freq": 1
+    },
+    {
+      "term": "Martial arts equipment",
+      "freq": 1
+    },
+    {
+      "term": "Medical electronic devices containing lithium metal(not more than 8g lithium per battery)",
+      "freq": 1
+    },
+    {
+      "term": "Medicated cream",
+      "freq": 1
+    },
+    {
+      "term": "Medicine of blood",
+      "freq": 1
+    },
+    {
+      "term": "Methyl alcohol thermometer",
+      "freq": 1
+    },
+    {
+      "term": "NANOKILL, BIOKILL",
+      "freq": 1
+    },
+    {
+      "term": "No fuel lighter",
+      "freq": 1
+    },
+    {
+      "term": "nutcracker",
+      "freq": 1
+    },
+    {
+      "term": "Other military explosive items",
+      "freq": 1
+    },
+    {
+      "term": "Oyster aekjeot",
+      "freq": 1
+    },
+    {
+      "term": "Paint thinner",
+      "freq": 1
+    },
+    {
+      "term": "partable fire extinguisher",
+      "freq": 1
+    },
+    {
+      "term": "Percussion cap",
+      "freq": 1
+    },
+    {
+      "term": "Plastic explosives",
+      "freq": 1
+    },
+    {
+      "term": "Plier(longer than 10cm)",
+      "freq": 1
+    },
+    {
+      "term": "Propane gas",
+      "freq": 1
+    },
+    {
+      "term": "Raticide",
+      "freq": 1
+    },
+    {
+      "term": "Roscoe",
+      "freq": 1
+    },
+    {
+      "term": "Sewing machine needle",
+      "freq": 1
+    },
+    {
+      "term": "Shart point darts",
+      "freq": 1
+    },
+    {
+      "term": "Shoes cream polish",
+      "freq": 1
+    },
+    {
+      "term": "Shortening",
+      "freq": 1
+    },
+    {
+      "term": "Skating blade",
+      "freq": 1
+    },
+    {
+      "term": "Skim milk",
+      "freq": 1
+    },
+    {
+      "term": "Smokeless gunpowder",
+      "freq": 1
+    },
+    {
+      "term": "Softball bats",
+      "freq": 1
+    },
+    {
+      "term": "Spanner(10cm or less)",
+      "freq": 1
+    },
+    {
+      "term": "Spare lithium metal battery for general electronic devices(more than 2g lithium per battery)",
+      "freq": 1
+    },
+    {
+      "term": "Spare lithium metal battery for medical electronic devices(exceeding 2g but not exceeing 8g lithium per battery)",
+      "freq": 1
+    },
+    {
+      "term": "Sport ball",
+      "freq": 1
+    },
+    {
+      "term": "Spreads",
+      "freq": 1
+    },
+    {
+      "term": "Squash racket",
+      "freq": 1
+    },
+    {
+      "term": "Starch syrup",
+      "freq": 1
+    },
+    {
+      "term": "Starter pistole",
+      "freq": 1
+    },
+    {
+      "term": "Stomach liquid medicine",
+      "freq": 1
+    },
+    {
+      "term": "Swordcane",
+      "freq": 1
+    },
+    {
+      "term": "Table-tennis racket",
+      "freq": 1
+    },
+    {
+      "term": "Tactical pen",
+      "freq": 1
+    },
+    {
+      "term": "Tanning lotion",
+      "freq": 1
+    },
+    {
+      "term": "Turpentine",
+      "freq": 1
+    },
+    {
+      "term": "Types of bokken",
+      "freq": 1
+    },
+    {
+      "term": "Vegetable juice",
+      "freq": 1
+    },
+    {
+      "term": "Weather mercury-barometer",
+      "freq": 1
+    },
+    {
+      "term": "Weather mercury-thermometer",
+      "freq": 1
+    },
+    {
+      "term": "White gunpowder",
+      "freq": 1
+    },
+    {
+      "term": "Wine opener",
+      "freq": 1
+    },
+    {
+      "term": "wooden stick",
+      "freq": 1
+    },
+    {
+      "term": "기타 군사 폭발 용품",
+      "freq": 0
+    },
+    {
+      "term": "나노킬, 비오킬",
+      "freq": 0
+    },
+    {
+      "term": "나무막대(청소도구, 밀대)",
+      "freq": 0
+    },
+    {
+      "term": "백색화약",
+      "freq": 0
+    },
+    {
+      "term": "볼트건(볼트총)",
+      "freq": 0
+    },
+    {
+      "term": "소프트볼 배트",
+      "freq": 0
+    },
+    {
+      "term": "쇼트닝",
+      "freq": 0
+    },
+    {
+      "term": "장도리",
+      "freq": 0
+    },
+    {
+      "term": "창난젓",
+      "freq": 0
+    },
+    {
+      "term": "초코크림",
+      "freq": 0
+    },
+    {
+      "term": "카누 노",
+      "freq": 0
+    },
+    {
+      "term": "카약 노",
+      "freq": 0
+    },
+    {
+      "term": "크리켓 배트",
+      "freq": 0
+    },
+    {
+      "term": "플라스틱 폭발물",
+      "freq": 0
+    },
+    {
+      "term": "휴대용(차량용)소화기",
+      "freq": 0
+    }
+  ]
+}

@@ -1,103 +1,110 @@
-import Image from "next/image";
+'use client';
+import { useMemo, useState } from 'react';
+import Link from 'next/link';
+import itemsKr from '../../data/items.kr.json';
+
+type RuleValue = boolean | string | null | undefined;
+type RuleSummary = { carry_on: RuleValue; checked: RuleValue };
+type Item = {
+	item_id: number;
+	name_ko: string;
+	rules_summary?: Record<string, RuleSummary>;
+	published?: boolean;
+};
+type ItemsData = { country?: string; items: Item[] };
 
 export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+	const [query, setQuery] = useState('');
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
-  );
+	const data = itemsKr as unknown as ItemsData;
+	const defaultCountry = (data.country || 'KR').toUpperCase();
+
+	const list = useMemo(() => {
+		const items = (data.items || []).filter((i) => i.published !== false);
+		return items.map((i) => {
+			const rule = i.rules_summary?.[defaultCountry];
+			const toRuleLabel = (value: RuleValue): string => {
+				if (value === true) return '허용';
+				if (value === false) return '금지';
+				if (typeof value === 'string') {
+					const trimmed = value.trim();
+					if (trimmed === '허용' || trimmed === '금지') return trimmed;
+					if (/^true$/i.test(trimmed)) return '허용';
+					if (/^false$/i.test(trimmed)) return '금지';
+				}
+				return '정보 없음';
+			};
+			const summary = rule
+				? `기내 ${toRuleLabel(rule.carry_on)} · 위탁 ${toRuleLabel(
+						rule.checked
+				  )}`
+				: '';
+			return {
+				item_id: i.item_id,
+				name_ko: i.name_ko,
+				summary,
+			};
+		});
+	}, [data.items, defaultCountry]);
+
+	const filtered = useMemo(() => {
+		const q = query.toLowerCase();
+		if (!q) return [];
+		return list
+			.filter((x) =>
+				`${x.item_id} ${x.name_ko} ${x.summary}`.toLowerCase().includes(q)
+			)
+			.slice(0, 100);
+	}, [list, query]);
+
+	return (
+		<div className="min-h-[calc(100vh-3.5rem)] flex flex-col items-center px-4 gap-6 pt-[25vh]">
+			<div className="w-full max-w-md mx-auto flex flex-col gap-4 items-center">
+				<h1 className="text-2xl font-semibold tracking-tight text-center">
+					어떤 물품을 가져가시나요?
+				</h1>
+				<div className="w-full flex items-center gap-2 rounded-lg border border-black/10 bg-background px-3 py-3 shadow-sm focus-within:ring-2 focus-within:ring-black/10 transition">
+					<span>🔎</span>
+					<input
+						value={query}
+						onChange={(e) => setQuery(e.target.value)}
+						placeholder="예: 보조배터리, 라이터, 가위"
+						className="flex-1 bg-transparent outline-none text-base placeholder:text-foreground/40"
+					/>
+					{query && (
+						<button
+							onClick={() => setQuery('')}
+							className="text-xs px-2 py-1 rounded hover:bg-black/5"
+						>
+							지우기
+						</button>
+					)}
+				</div>
+			</div>
+
+			{query && (
+				<div className="w-full max-w-md mx-auto flex flex-col gap-1">
+					<div className="text-xs text-foreground/60">
+						결과 {filtered.length}건
+					</div>
+					<div className="divide-y divide-black/5 rounded-lg border border-black/10 overflow-hidden">
+						{filtered.map((item) => (
+							<Link
+								key={item.item_id}
+								href={`/items/${String(item.item_id)}`}
+								className="block px-4 py-3 hover:bg-black/5 transition"
+							>
+								<div className="flex items-center justify-between">
+									<div className="font-medium">{item.name_ko}</div>
+								</div>
+								<div className="text-sm text-foreground/70 mt-1">
+									{item.summary}
+								</div>
+							</Link>
+						))}
+					</div>
+				</div>
+			)}
+		</div>
+	);
 }
