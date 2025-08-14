@@ -3,7 +3,7 @@ import Fuse from 'fuse.js';
 import itemsKr from '../../../../data/items.kr.json';
 
 const fuse = new Fuse(itemsKr.items, {
-  keys: ['name_ko'],
+  keys: ['name_ko', 'name_en', 'description', 'tags'],
   threshold: 0.3,
 });
 
