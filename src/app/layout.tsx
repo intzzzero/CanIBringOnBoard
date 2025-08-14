@@ -26,7 +26,8 @@ export default function RootLayout({
 	return (
 		<html lang="ko">
 			<body
-				className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-hidden`}>
+				className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-hidden`}
+			>
 				<div className="min-h-screen flex flex-col">
 					<header className="sticky top-0 z-10 border-b border-black/10 bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
 						<div className="h-14 flex items-center gap-3 px-4">
@@ -34,7 +35,7 @@ export default function RootLayout({
 								href="/"
 								className="text-base md:text-lg font-semibold px-2 py-1 rounded hover:bg-black/5"
 							>
-								Can I Bring On Board?
+								✈️ Can I Bring On Board?
 							</Link>
 							<nav className="ml-1">
 								<ul className="flex items-center gap-1 md:gap-2 text-sm">
