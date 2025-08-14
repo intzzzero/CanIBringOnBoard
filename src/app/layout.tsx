@@ -26,8 +26,7 @@ export default function RootLayout({
 	return (
 		<html lang="ko">
 			<body
-				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-			>
+				className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-hidden`}>
 				<div className="min-h-screen flex flex-col">
 					<header className="sticky top-0 z-10 border-b border-black/10 bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
 						<div className="h-14 flex items-center gap-3 px-4">
