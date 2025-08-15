@@ -1,11 +1,12 @@
 import Header from '@/components/Header';
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono } from 'next/font/google';
+import { Inter, Geist_Mono } from 'next/font/google';
 import './globals.css';
 
-const geistSans = Geist({
-	variable: '--font-geist-sans',
+const inter = Inter({
+	variable: '--font-inter',
 	subsets: ['latin'],
+	weight: ['400', '600', '700'],
 });
 
 const geistMono = Geist_Mono({
@@ -26,13 +27,14 @@ export default function RootLayout({
 	return (
 		<html lang="ko">
 			<body
-				className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-hidden`}
+				className={`${inter.variable} ${geistMono.variable} antialiased overflow-hidden`}
 			>
-				<div className="min-h-screen flex flex-col">
+				<div
+					className="min-h-screen flex flex-col"
+					style={{ background: 'var(--background)' }}
+				>
 					<Header />
-					<main className="max-w-5xl w-full mx-auto p-4 md:p-8">
-						{children}
-					</main>
+					<main className="max-w-6xl w-full mx-auto flex-1">{children}</main>
 				</div>
 			</body>
 		</html>

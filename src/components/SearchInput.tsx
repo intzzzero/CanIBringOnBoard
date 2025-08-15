@@ -14,37 +14,35 @@ export default function SearchInput({
 	suggestions,
 }: SearchInputProps) {
 	return (
-		<div className="w-full flex flex-col gap-2">
-			<div className="w-full flex items-center gap-2 rounded-lg border border-black/10 bg-background px-3 py-3 shadow-sm focus-within:ring-2 focus-within:ring-black/10 transition">
-				<span>🔎</span>
+		<div className="w-full flex flex-col gap-3">
+			<div
+				className="w-full flex items-center gap-4 rounded-2xl bg-white px-6 py-4 shadow-lg transition-all duration-300 focus-within:shadow-xl"
+				style={{
+					border: `2px solid var(--border-light)`,
+					background: 'linear-gradient(135deg, #ffffff 0%, #F8FAFE 100%)',
+				}}
+			>
+				<div
+					className="flex items-center justify-center w-8 h-8 rounded-full"
+					style={{ background: 'var(--primary-light)' }}
+				>
+					<span style={{ color: 'var(--primary)' }}>🔍</span>
+				</div>
 				<input
 					value={query}
 					onChange={(e) => setQuery(e.target.value)}
-					placeholder="예: 보조배터리, 라이터, 가위"
-					className="flex-1 bg-transparent outline-none text-base placeholder:text-foreground/40"
+					placeholder="예: 보조배터리, 라이터, 가위..."
+					className="flex-1 bg-transparent outline-none text-lg font-medium"
 				/>
 				{query && (
 					<button
 						onClick={() => setQuery('')}
-						className="text-xs px-2 py-1 rounded hover:bg-black/5"
+						className="btn-secondary !px-4 !py-2 !text-sm"
 					>
 						지우기
 					</button>
 				)}
 			</div>
-			{/* {suggestions.length > 0 && (
-        <div className="w-full bg-background rounded-lg border border-black/10 shadow-sm">
-          {suggestions.map((suggestion) => (
-            <div
-              key={suggestion}
-              className="px-4 py-2 cursor-pointer hover:bg-black/5"
-              onClick={() => setQuery(suggestion)}
-            >
-              {suggestion}
-            </div>
-          ))}
-        </div>
-      )} */}
 		</div>
 	);
 }
